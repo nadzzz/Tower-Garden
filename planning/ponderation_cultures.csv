@@ -1,0 +1,7 @@
+critere,poids_pct,description
+consommation_familiale,30,Importance de la culture dans les repas reels de la famille
+rendement_legumes,20,Capacite a produire une quantite utile de legumes ou feuilles
+appreciation,20,Plaisir et probabilite que la famille mange la recolte
+compatibilite_interieur,15,Adequation avec lumiere pH EC temperature humidite et supports
+facilite_tour,10,Facilite de conduite en Tower Garden interieur
+diversite,5,Contribution a la variation des repas

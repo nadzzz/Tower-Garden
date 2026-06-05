@@ -1,0 +1,37 @@
+semence_id,culture,variete,consommation_familiale_1_5,rendement_legumes_1_5,appreciation_1_5,compatibilite_interieur_1_5,facilite_tour_1_5,diversite_1_5,score_total,decision,notes
+S005,Laitue,Early Curled Simpson,5,4,4,5,5,3,4.45,retenir,Base salade rapide
+S007,Laitue,Red Salad Bowl,5,4,4,5,5,4,4.50,retenir,Ajoute couleur et variation
+S010,Laitue romaine,Romaine,5,4,4,5,5,4,4.50,retenir,Bonne texture salade familiale
+S028,Laitue Bibb,Bibb,4,3,4,5,5,4,4.15,retenir,Texture tendre
+S034,Laitue,Black Seeded Simpson,5,4,4,5,5,3,4.45,retenir,Succession fiable
+S036,Laitue,Prizehead,4,4,4,5,5,4,4.35,retenir,Variation salade
+S014,Melange de laitues,Gourmet Lettuce,4,4,4,5,5,5,4.40,retenir,Blend facile
+S023,Roquette,De jardin,4,4,4,5,5,4,4.20,retenir,Salade piquante rapide
+S035,Roquette sauvage,Arugula,3,3,4,5,4,5,3.85,succession,Plus intense; surveiller acceptation enfants
+S026,Basilic,Classique,5,4,5,4,5,4,4.60,retenir,Cuisine reguliere
+S024,Basilic,Cannelle,3,3,4,4,4,5,3.70,retenir,Variation aromatique
+S027,Coriandre,Santo,3,3,4,4,3,4,3.45,succession,Monte vite; garder en petites vagues
+S012,Persil italien,Italian Flat Leaf,3,3,3,4,4,3,3.35,retenir,Aromate stable
+S019,Ciboulette,De jardin,3,3,3,4,5,3,3.45,retenir,Coupe au besoin
+S002,Moutarde,Wave Miike,2,3,3,5,4,4,3.20,reserve,Gout piquant; petite quantite
+S013,Pak-choi,Shanghai,4,4,4,4,4,4,4.00,retenir,Legume feuille rapide
+S006,Kale / chou frise,Lacinato,4,5,3,4,4,4,4.05,retenir,Feuille productive
+S017,Kale,variete inconnue,3,4,3,4,4,3,3.55,retenir,Tester contre Lacinato
+S003,Bette a carde,Rainbow Chard,4,5,3,4,4,4,4.05,retenir,Production continue
+S030,Bette a carde,Rainbow Chard,4,5,3,4,4,4,4.05,retenir,Doublon utile si famille aime
+S021,Pois mange-tout,Cascadia,5,4,5,4,3,5,4.50,retenir,Pois sucres importants; support T2
+S025,Pois mange-tout,Oregon Sugar Pod,5,4,5,4,3,5,4.50,retenir,Pois sucres importants; support T2
+S016,Tomate cerise,Sunrise Bumble Bee,4,4,5,3,3,5,4.00,retenir,Possible avec forte lumiere et pollinisation
+S031,Concombre,Marketmore,5,5,4,3,3,5,4.35,retenir,Meilleur concombre frais disponible
+S018,Piment jalapeno,TAM,3,4,4,4,4,4,3.75,retenir,Piment modere adultes
+S011,Piment cayenne,Ring of Fire,2,3,3,4,4,4,3.00,retenir_limiter,Un plant suffit
+S015,Piment habanero,Orange,1,3,3,3,3,4,2.45,test_limiter,Tres fort; garder a 1 plant
+S009,Courge a moelle,Bianco di Trieste,3,4,3,2,1,5,3.00,test,Risque eleve interieur; retirer si ombre
+S004,Concombre,Sumter,3,4,3,3,3,4,3.35,reserve,Plutot marinade/croquant
+S033,Concombre a marinades,National Pickling,3,4,3,3,3,4,3.35,reserve,Plutot marinade
+S022,Haricot nain,Maxibel,3,4,3,3,3,4,3.35,reserve,Possible si pois decevants
+S032,Haricot grimpant,Kentucky Wonder,3,4,3,2,2,4,3.05,exclure_cycle,Plus envahissant que les pois
+S008,Epinard,Giant Noble,3,3,3,3,3,3,3.00,exclure_cycle,Interieur chaud/lampes puissantes moins ideal
+S020,Aneth,De jardin,2,2,3,3,3,3,2.55,exclure_cycle,Priorite plus faible ce cycle
+S001,Oignon a botteler,Parade,2,3,3,4,4,3,3.05,reserve,Bon ajout futur
+S029,Laitue romaine,Romaine,4,4,4,5,5,4,4.20,retenir,Doublon romaine utilise en T2

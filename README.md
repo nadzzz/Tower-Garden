@@ -13,10 +13,16 @@ Ce projet sert a gerer 3 tours Tower Garden, l'inventaire des semences, les plan
 - `data/preferences.csv` : priorites de culture pour optimiser ce que tu manges vraiment.
 - `data/parametres_culture.csv` : pH, EC, humidite, temperature et lumiere par semence.
 - `planning/plan_cycle_courant.csv` : plan de plantation actif.
+- `planning/calendrier_implantation_12_semaines.csv` : calendrier guide du cycle interieur.
+- `planning/checklist_lundi_vendredi.csv` : routine de validation lundi/vendredi.
+- `planning/plan_ensemencement.csv` : semis, quantites et dates de transfert estimees.
+- `planning/ponderation_cultures.csv` : poids des criteres de decision.
+- `planning/scores_cultures.csv` : scores par culture pour orchestrer les choix.
 - `docs/strategie_optimisation.md` : methode pour choisir quoi planter.
 - `docs/routine_entretien.md` : routine de suivi hebdomadaire.
 - `docs/unites_parametres_culture.md` : explication des unites et de la conversion lux/lumens.
 - `docs/sources_parametres_culture.md` : references utilisees pour les fourchettes de culture.
+- `docs/guide_implantation_interieur.md` : guide pratique pour le cycle interieur.
 - `archives/` : anciens cycles, photos, exports ou notes.
 
 ## Utilisation suggeree

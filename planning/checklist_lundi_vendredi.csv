@@ -1,0 +1,18 @@
+jour,moment,temps_estime_min,tache,mesure_ou_observation,seuil_cible,action_si_hors_cible,notes
+Lundi,Debut,5,Consulter calendrier,Prochaine action planifiee,Tache de la date courante,Suivre calendrier_implantation_12_semaines.csv,Commencer par decisions semis/transfert/taille
+Lundi,Mesures,10,Mesurer pH chaque tour,pH,T1 6.0; T2 6.2-6.4; T3 6.0-6.2,Ajuster doucement et revalider avant transfert,Eviter grosses corrections rapides
+Lundi,Mesures,10,Mesurer EC chaque tour,EC mS/cm,T1 1.2-1.5; T2 1.5-1.8; T3 2.0-2.4,Diluer avec eau si trop haut; ajouter nutriments si trop bas,Noter EC avant et apres ajout d'eau
+Lundi,Environnement,10,Verifier temperature,Temperature air,T1/T2 18-24 C; T3 21-27 C,Ajuster ventilation ou distance lampes,Les piments tolerent plus chaud que laitues
+Lundi,Environnement,10,Verifier humidite,Humidite relative,50-70 pct,Augmenter ventilation si trop haut; humidifier legerement si trop bas,Eviter condensation
+Lundi,Lumiere,10,Verifier photoperiode et lux,Lumiere,T1 12-16h 12000-25000 lux; T2 14-16h 20000-35000 lux; T3 14-18h 30000-60000 lux,Ajuster minuterie ou hauteur lampes,Mesurer au niveau de la canopee si possible
+Lundi,Plants,15,Verifier racines et vigueur,Racines visibles et claires; plants non etioles,Transfert permis seulement si conditions OK,Reporter un transfert vaut mieux qu'un plant stresse
+Lundi,Action,30,Semer transferer tailler ou guider,Action selon calendrier,Respecter semaine et tour cible,Reporter si validation echoue,Manipuler les cubes par la base
+Lundi,Fin,5,Mettre a jour statuts,Statut plan_cycle,a_semer/en_germination/pret_transfert/en_tour/recolte/retire,Mettre note si report,Noter aussi pertes et remplacements
+Vendredi,Debut,5,Verifier niveau reservoirs,Niveau eau,Pompe stable et racines humidifiees,Ajouter eau pH ajustee si necessaire,Mesurer EC avant/apres si possible
+Vendredi,Mesures,10,Mesurer pH,pH,T1 6.0; T2 6.2-6.4; T3 6.0-6.2,Ajuster doucement,Priorite a stabilite
+Vendredi,Mesures,10,Mesurer EC,EC mS/cm,T1 1.2-1.5; T2 1.5-1.8; T3 2.0-2.4,Ajuster solution selon besoin,Surveiller T3 plus gourmand
+Vendredi,Environnement,10,Verifier temperature humidite lumiere,Temp humidite lux,Dans cibles du guide,Ajuster ventilation minuterie hauteur lampes,Rechercher stress chaleur sur laitues
+Vendredi,Plants,15,Inspecter reprise et racines,Fletrissement; couleur; odeur racines,Plants fermes et racines claires,Retirer feuilles mortes; isoler problemes,Verifier dessous des feuilles
+Vendredi,Fruits,15,Polliniser si fleurs,Fleurs ouvertes sur tomate/piment/concombre/courge,Fleurs disponibles,Polliniser manuellement selon guide,Noter date de pollinisation
+Vendredi,Recolte,15,Recolter legerement,Feuilles exterieures; basilic; pois,Recolter sans epuiser le plant,Consigner dans data/recoltes.csv,Objectif 4-7 portions salade/semaine
+Fin de semaine,Optionnel,15-30,Observation courte,Eau; fletrissement; recolte rapide,Pas d'intervention lourde sauf urgence,Ajouter eau/recolter/noter probleme,Garder simple
