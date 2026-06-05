@@ -1,0 +1,37 @@
+id,culture,variete,bio,nom_scientifique,categorie,cycle_estime_jours,notes
+S001,Oignon a botteler,Parade,Oui,Allium fistulosum,aromate/allium,,Coupe au besoin; bon candidat pour recoltes regulieres
+S002,Moutarde,Wave Miike,Oui,Brassica juncea,feuille rapide,,Culture rapide; gout piquant
+S003,Bette a carde,Rainbow Chard,Non specifie,Beta vulgaris,feuille productive,,Recolte feuille par feuille
+S004,Concombre,Sumter,Non specifie,Cucumis sativus,fruit,,Demande support et espace
+S005,Laitue,Early Curled Simpson,Non specifie,Lactuca sativa,feuille rapide,,Bonne pour succession
+S006,Kale / chou frise,Lacinato,Oui,Brassica oleracea var. acephala,feuille productive,,Recolte continue
+S007,Laitue,Red Salad Bowl,Non specifie,Lactuca sativa,feuille rapide,,Bonne pour salades
+S008,Epinard,Giant Noble,Non specifie,Spinacia oleracea,feuille fraiche,,Prefere conditions plus fraiches
+S009,Courge a moelle,Bianco di Trieste,Non specifie,Cucurbita pepo,fruit volumineux,,A valider; peut etre trop volumineux pour une tour
+S010,Laitue romaine,Romaine,Non specifie,Lactuca sativa var. longifolia,feuille rapide,,Bonne base salade
+S011,Piment cayenne,Ring of Fire,Oui,Capsicum annuum,fruit long,,Long cycle; peu d'emplacements
+S012,Persil italien,Italian Flat Leaf,Oui,Petroselinum crispum var. neapolitanum,aromate,,Recolte continue
+S013,Pak-choi,Shanghai,Oui,Brassica rapa var. chinensis,feuille rapide,,Rapide; recolte jeune possible
+S014,Melange de laitues,Gourmet Lettuce,Non specifie,Lactuca sativa,feuille rapide,,Bon pour essais
+S015,Piment habanero,Orange,Oui,Capsicum chinense,fruit long,,Long cycle; tres productif si bien place
+S016,Tomate cerise,Sunrise Bumble Bee,Non specifie,Solanum lycopersicum,fruit long,,Demande support, lumiere et espace
+S017,Kale,variete inconnue,Non specifie,Brassica oleracea var. acephala,feuille productive,,A comparer avec Lacinato
+S018,Piment jalapeno,TAM,Oui,Capsicum annuum,fruit long,,Long cycle; bon rendement culinaire
+S019,Ciboulette,De jardin,Oui,Allium schoenoprasum,aromate,,Recolte continue
+S020,Aneth,De jardin,Oui,Anethum graveolens,aromate,,A resemer regulierement
+S021,Pois mange-tout,Cascadia,Oui,Pisum sativum var. saccharatum,fruit grimpant,,Demande support; bon rendement frais
+S022,Haricot nain,Maxibel,Oui,Phaseolus vulgaris var. nana,fruit rapide,,Cycle assez court
+S023,Roquette,De jardin,Oui,Eruca sativa,feuille rapide,,Tres bon pour succession
+S024,Basilic,Cannelle,Non specifie,Ocimum basilicum,aromate,,Aromate specialise
+S025,Pois mange-tout,Oregon Sugar Pod,Oui,Pisum sativum var. macrocarpon,fruit grimpant,,Demande support
+S026,Basilic,Classique,Non specifie,Ocimum basilicum,aromate,,Prioritaire si consommation frequente
+S027,Coriandre,Santo,Oui,Coriandrum sativum,aromate,,Succession courte; monte vite en graines
+S028,Laitue Bibb,Bibb,Non specifie,Lactuca sativa,feuille rapide,,Texture tendre
+S029,Laitue romaine,Romaine,Non specifie,Lactuca sativa var. longifolia,feuille rapide,,Doublon possible de S010
+S030,Bette a carde,Rainbow Chard,Non specifie,Beta vulgaris,feuille productive,,Doublon possible de S003
+S031,Concombre,Marketmore,Non specifie,Cucumis sativus,fruit,,Demande support et espace
+S032,Haricot grimpant,Kentucky Wonder,Non specifie,Phaseolus vulgaris,fruit grimpant,,Demande support
+S033,Concombre a marinades,National Pickling,Non specifie,Cucumis sativus,fruit,,Demande support; utile si marinades
+S034,Laitue,Black Seeded Simpson,Non specifie,Lactuca sativa,feuille rapide,,Bonne pour succession
+S035,Roquette sauvage,Arugula,Non specifie,Diplotaxis tenuifolia,feuille rapide,,Gout plus intense
+S036,Laitue,Prizehead,Non specifie,Lactuca sativa,feuille rapide,,Bonne pour salades

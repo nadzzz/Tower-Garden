@@ -1,0 +1,11 @@
+priorite,tour_id,emplacement_id,semence_id,culture,variete,date_semis_prevue,date_transplantation_prevue,objectif,statut,notes
+1,T1,,S005,Laitue,Early Curled Simpson,,,Salades regulieres,a_planifier,
+2,T1,,S023,Roquette,De jardin,,,Salades piquantes,a_planifier,
+3,T1,,S026,Basilic,Classique,,,Aromate principal,a_planifier,
+4,T2,,S006,Kale / chou frise,Lacinato,,,Recolte continue,a_planifier,
+5,T2,,S003,Bette a carde,Rainbow Chard,,,Recolte continue,a_planifier,
+6,T2,,S021,Pois mange-tout,Cascadia,,,Support grimpant leger,a_planifier,
+7,T2,,S022,Haricot nain,Maxibel,,,Production rapide,a_planifier,
+8,T3,,S016,Tomate cerise,Sunrise Bumble Bee,,,Production fruitiere avec support,a_planifier,
+9,T3,,S031,Concombre,Marketmore,,,Production fruitiere avec support,a_planifier,
+10,T3,,S018,Piment jalapeno,TAM,,,Piments frais,a_planifier,
