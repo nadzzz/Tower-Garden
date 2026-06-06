@@ -4,7 +4,7 @@ Ce projet sert a gerer 3 tours Tower Garden, l'inventaire des semences, les plan
 
 ## Structure
 
-- `data/semences.csv` : inventaire des semences disponibles.
+- `data/semences.csv` : inventaire des semences (avec delais de croissance par etape, hauteur estimee et port conseille).
 - `data/tours.csv` : description des 3 tours et capacite de planification.
 - `data/emplacements.csv` : grille des emplacements de plantation par tour.
 - `data/plantations.csv` : suivi des semis, transplantations, et statuts.

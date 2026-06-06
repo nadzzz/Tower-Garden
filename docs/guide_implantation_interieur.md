@@ -290,3 +290,55 @@ production toute l'annee. Une fois la routine maitrisee :
 - a chaque fin de cycle, archiver le plan dans `archives/` et ajuster `data/preferences.csv`
   et `planning/scores_cultures.csv` selon ce qui a ete reellement mange.
 
+## 12. Placement par hauteur dans la tour
+
+Geometrie : chaque tour a 7 niveaux (N1 = bas, N7 = haut) et 4 positions par niveau a 90 les
+unes des autres. Chaque niveau est decale de 45 par rapport au niveau du dessous (escalier).
+Consequence : les niveaux de meme parite partagent les memes orientations, donc une colonne
+verticale se repete tous les 2 niveaux (N1-N3-N5-N7 alignes ; N2-N4-N6 alignes).
+
+Eclairage : panneaux LED lateraux verticaux. Un plant haut ou touffu ombrage surtout ses
+voisins de meme hauteur et les plants situes au-dessus de lui dans la meme colonne (il pousse
+vers le haut et coupe la lumiere laterale).
+
+Regle : **placer les cultures les plus hautes aux niveaux les plus eleves** (les plus hautes en
+N7, les plus basses en N1). Ainsi chaque plant n'a au-dessus de lui, dans sa colonne, que des
+plants aussi hauts ou plus hauts, qui croissent vers l'espace ouvert au-dessus de la tour
+plutot que d'ombrager un petit plant avide de lumiere.
+
+- Repartir les gros plants (tomate, concombre, courge) sur des orientations opposees grace au
+  decalage 45 (ex. tomates en P1/P3 = 0/180, concombres en P2/P4 = 90/270).
+- Les grimpants (pois, concombre, tomate, haricot grimpant) vont en haut : ils montent au-dela
+  du sommet de la tour sans ombrager personne.
+- Les petites cultures rapides (laitue, roquette, pak-choi) vont en bas : elles sont recoltees
+  avant d'etre depassees, et l'attribut `port_preference` de `data/semences.csv` (bas/milieu/haut)
+  resume la hauteur attendue.
+
+Disposition actuelle : T1 basilic en haut puis aromates puis salades ; T2 pois en haut, puis
+kale, bette, oignon, ciboulette/pak-choi ; T3 tomate+concombre en N7, piments en N6, courge en
+N5, reste libre pour l'aeration.
+
+## 13. Delais de croissance (estimes, aeroponie)
+
+Les colonnes de `data/semences.csv` donnent, par culture : `jours_germination`,
+`jours_semis_transplant` (semis -> pret a transferer), `jours_transplant_recolte` et
+`cycle_estime_jours` (semis -> premiere recolte). Reperes :
+
+| Type | Semis -> transplant | Cycle total (semis -> 1re recolte) |
+|---|---|---|
+| Laitue feuille, roquette, pak-choi | ~2-3 sem | ~32-42 j |
+| Laitue romaine / pommee | ~3 sem | ~49-56 j |
+| Basilic, coriandre | ~3 sem | ~42 j |
+| Persil, ciboulette, oignon | ~4-5 sem | ~63-80 j |
+| Kale, bette | ~3 sem | ~46-49 j |
+| Pois mange-tout | ~3 sem | ~61 j |
+| Concombre, courge | ~4 sem | ~58-63 j |
+| Tomate cerise | ~6 sem | ~87 j |
+| Piments (jalapeno, cayenne) | ~6 sem | ~97-102 j |
+| Piment habanero | ~7 sem | ~124 j |
+
+Les fruits ont une pepiniere bien plus longue que les feuilles : tomate et piments se
+transferent vers la mi/fin juillet, l'habanero fin juillet, et leurs recoltes arrivent surtout
+a l'automne. L'aeroponie peut raccourcir ces delais de ~10-20 % avec une bonne lumiere ; ajuster
+selon l'observation reelle des plants.
+
