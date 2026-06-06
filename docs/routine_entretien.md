@@ -1,5 +1,10 @@
 # Routine d'entretien
 
+Les cibles pH, EC, temperature et lumiere par tour sont definies dans
+`docs/guide_implantation_interieur.md` section 4 (bandes EC : T1 1.2-1.5, T2 1.6-1.9,
+T3 2.0-2.4). Les tours fonctionnent a l'annee : cette routine se poursuit en continu, pas
+seulement pendant le cycle de demarrage de 12 semaines.
+
 ## Chaque jour ou presque
 
 - Observer les plants faibles, jaunis ou trop ombrages.

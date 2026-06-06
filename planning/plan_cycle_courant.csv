@@ -3,28 +3,28 @@ semaine,tour_id,niveau,position,emplacement_id,semence_id,culture,variete,vague,
 1,T1,1,2,T1-N1-P2,S007,Laitue,Red Salad Bowl,Vague 1,2026-06-08,2026-06-22,Salades familiales,a_semer,
 1,T1,1,3,T1-N1-P3,S010,Laitue romaine,Romaine,Vague 1,2026-06-08,2026-06-22,Salades familiales,a_semer,
 1,T1,1,4,T1-N1-P4,S028,Laitue Bibb,Bibb,Vague 1,2026-06-08,2026-06-22,Salades familiales,a_semer,
-3,T1,2,1,T1-N2-P1,S034,Laitue,Black Seeded Simpson,Vague 2,2026-06-15,2026-06-29,Succession salade,a_semer,
-3,T1,2,2,T1-N2-P2,S036,Laitue,Prizehead,Vague 2,2026-06-15,2026-06-29,Succession salade,a_semer,
-3,T1,2,3,T1-N2-P3,S005,Laitue,Early Curled Simpson,Vague 2,2026-06-15,2026-06-29,Succession salade,a_semer,
-3,T1,2,4,T1-N2-P4,S007,Laitue,Red Salad Bowl,Vague 2,2026-06-15,2026-06-29,Succession salade,a_semer,
-5,T1,3,1,T1-N3-P1,S010,Laitue romaine,Romaine,Vague 3,2026-06-22,2026-07-06,Succession salade,a_semer,
-5,T1,3,2,T1-N3-P2,S028,Laitue Bibb,Bibb,Vague 3,2026-06-22,2026-07-06,Succession salade,a_semer,
-5,T1,3,3,T1-N3-P3,S034,Laitue,Black Seeded Simpson,Vague 3,2026-06-22,2026-07-06,Succession salade,a_semer,
-5,T1,3,4,T1-N3-P4,S036,Laitue,Prizehead,Vague 3,2026-06-22,2026-07-06,Succession salade,a_semer,
-1,T1,4,1,T1-N4-P1,S023,Roquette,De jardin,Vague 1,2026-06-08,2026-06-22,Salades piquantes,a_semer,
-1,T1,4,2,T1-N4-P2,S023,Roquette,De jardin,Vague 1,2026-06-08,2026-06-22,Salades piquantes,a_semer,
-3,T1,4,3,T1-N4-P3,S023,Roquette,De jardin,Vague 2,2026-06-15,2026-06-29,Succession roquette,a_semer,
-3,T1,4,4,T1-N4-P4,S035,Roquette sauvage,Arugula,Vague 2,2026-06-15,2026-06-29,Variation salade,a_semer,
-5,T1,5,1,T1-N5-P1,S023,Roquette,De jardin,Vague 3,2026-06-22,2026-07-06,Succession roquette,a_semer,
-1,T1,5,2,T1-N5-P2,S026,Basilic,Classique,Vague 1,2026-06-08,2026-06-22,Cuisine reguliere,a_semer,
-1,T1,5,3,T1-N5-P3,S026,Basilic,Classique,Vague 1,2026-06-08,2026-06-22,Cuisine reguliere,a_semer,
-1,T1,5,4,T1-N5-P4,S024,Basilic,Cannelle,Vague 1,2026-06-08,2026-06-22,Variation aromatique,a_semer,
-3,T1,6,1,T1-N6-P1,S026,Basilic,Classique,Vague 2,2026-06-15,2026-06-29,Cuisine reguliere,a_semer,
-1,T1,6,2,T1-N6-P2,S027,Coriandre,Santo,Vague 1,2026-06-08,2026-06-22,Aromate frais,a_semer,
-3,T1,6,3,T1-N6-P3,S027,Coriandre,Santo,Vague 2,2026-06-15,2026-06-29,Succession coriandre,a_semer,
-1,T1,6,4,T1-N6-P4,S012,Persil italien,Italian Flat Leaf,Vague 1,2026-06-08,2026-06-22,Aromate stable,a_semer,
-1,T1,7,1,T1-N7-P1,S019,Ciboulette,De jardin,Vague 1,2026-06-08,2026-06-22,Aromate coupe au besoin,a_semer,
-1,T1,7,2,T1-N7-P2,S002,Moutarde,Wave Miike,Vague 1,2026-06-08,2026-06-22,Feuille rapide piquante,a_semer,
+1,T1,2,1,T1-N2-P1,S023,Roquette,De jardin,Vague 1,2026-06-08,2026-06-22,Salades piquantes,a_semer,
+1,T1,2,2,T1-N2-P2,S023,Roquette,De jardin,Vague 1,2026-06-08,2026-06-22,Salades piquantes,a_semer,
+1,T1,2,3,T1-N2-P3,S027,Coriandre,Santo,Vague 1,2026-06-08,2026-06-22,Aromate frais,a_semer,
+1,T1,2,4,T1-N2-P4,S012,Persil italien,Italian Flat Leaf,Vague 1,2026-06-08,2026-06-22,Aromate stable,a_semer,
+1,T1,3,1,T1-N3-P1,S026,Basilic,Classique,Vague 1,2026-06-08,2026-06-22,Cuisine reguliere,a_semer,Basilic regroupe en T1 (EC basse compatible)
+1,T1,3,2,T1-N3-P2,S026,Basilic,Classique,Vague 1,2026-06-08,2026-06-22,Cuisine reguliere,a_semer,
+1,T1,3,3,T1-N3-P3,S024,Basilic,Cannelle,Vague 1,2026-06-08,2026-06-22,Variation aromatique,a_semer,
+1,T1,3,4,T1-N3-P4,S002,Moutarde,Wave Miike,Vague 1,2026-06-08,2026-06-22,Feuille rapide piquante,a_semer,Petite quantite; recolter jeune
+3,T1,4,1,T1-N4-P1,S034,Laitue,Black Seeded Simpson,Vague 2,2026-06-15,2026-06-29,Succession salade,a_semer,
+3,T1,4,2,T1-N4-P2,S036,Laitue,Prizehead,Vague 2,2026-06-15,2026-06-29,Succession salade,a_semer,
+3,T1,4,3,T1-N4-P3,S014,Melange de laitues,Gourmet Lettuce,Vague 2,2026-06-15,2026-06-29,Blend salade,a_semer,
+3,T1,4,4,T1-N4-P4,S007,Laitue,Red Salad Bowl,Vague 2,2026-06-15,2026-06-29,Succession salade,a_semer,
+3,T1,5,1,T1-N5-P1,S023,Roquette,De jardin,Vague 2,2026-06-15,2026-06-29,Succession roquette,a_semer,
+3,T1,5,2,T1-N5-P2,S035,Roquette sauvage,Arugula,Vague 2,2026-06-15,2026-06-29,Variation salade,a_semer,
+3,T1,5,3,T1-N5-P3,S027,Coriandre,Santo,Vague 2,2026-06-15,2026-06-29,Succession coriandre,a_semer,
+3,T1,5,4,T1-N5-P4,S026,Basilic,Classique,Vague 2,2026-06-15,2026-06-29,Cuisine reguliere,a_semer,
+5,T1,6,1,T1-N6-P1,S010,Laitue romaine,Romaine,Vague 3,2026-06-22,2026-07-06,Succession salade,a_semer,
+5,T1,6,2,T1-N6-P2,S028,Laitue Bibb,Bibb,Vague 3,2026-06-22,2026-07-06,Succession salade,a_semer,
+5,T1,6,3,T1-N6-P3,S005,Laitue,Early Curled Simpson,Vague 3,2026-06-22,2026-07-06,Succession salade,a_semer,
+5,T1,6,4,T1-N6-P4,S023,Roquette,De jardin,Vague 3,2026-06-22,2026-07-06,Succession roquette,a_semer,
+5,T1,7,1,T1-N7-P1,S026,Basilic,Classique,Vague 3,2026-06-22,2026-07-06,Cuisine reguliere,a_semer,Approvisionnement continu
+3,T1,7,2,T1-N7-P2,S024,Basilic,Cannelle,Vague 2,2026-06-15,2026-06-29,Variation aromatique,a_semer,
 6,T1,7,3,T1-N7-P3,,,,Reserve,2026-07-13,,Reserve succession,reserve,Utiliser si salade sous 4 portions par semaine
 6,T1,7,4,T1-N7-P4,,,,Reserve,2026-07-13,,Reserve succession,reserve,Utiliser si basilic ou roquette insuffisant
 1,T2,1,1,T2-N1-P1,S021,Pois mange-tout,Cascadia,Vague 1,2026-06-08,2026-06-29,Pois sucres support,a_semer,
@@ -35,41 +35,41 @@ semaine,tour_id,niveau,position,emplacement_id,semence_id,culture,variete,vague,
 1,T2,2,2,T2-N2-P2,S025,Pois mange-tout,Oregon Sugar Pod,Vague 1,2026-06-08,2026-06-29,Pois sucres support,a_semer,
 1,T2,2,3,T2-N2-P3,S025,Pois mange-tout,Oregon Sugar Pod,Vague 1,2026-06-08,2026-06-29,Pois sucres support,a_semer,
 1,T2,2,4,T2-N2-P4,S025,Pois mange-tout,Oregon Sugar Pod,Vague 1,2026-06-08,2026-06-29,Pois sucres support,a_semer,
-3,T2,3,1,T2-N3-P1,S010,Laitue romaine,Romaine,Vague 2,2026-06-15,2026-06-29,Salade robuste,a_semer,
-3,T2,3,2,T2-N3-P2,S029,Laitue romaine,Romaine,Vague 2,2026-06-15,2026-06-29,Salade robuste,a_semer,
-3,T2,3,3,T2-N3-P3,S014,Melange de laitues,Gourmet Lettuce,Vague 2,2026-06-15,2026-06-29,Blend salade,a_semer,
-3,T2,3,4,T2-N3-P4,S007,Laitue,Red Salad Bowl,Vague 2,2026-06-15,2026-06-29,Blend salade,a_semer,
-1,T2,4,1,T2-N4-P1,S023,Roquette,De jardin,Vague 1,2026-06-08,2026-06-22,Salade piquante,a_semer,
-3,T2,4,2,T2-N4-P2,S023,Roquette,De jardin,Vague 2,2026-06-15,2026-06-29,Succession roquette,a_semer,
-5,T2,4,3,T2-N4-P3,S035,Roquette sauvage,Arugula,Vague 3,2026-06-22,2026-07-06,Variation salade,a_semer,
-1,T2,4,4,T2-N4-P4,S013,Pak-choi,Shanghai,Vague 1,2026-06-08,2026-06-22,Legume feuille rapide,a_semer,
-1,T2,5,1,T2-N5-P1,S013,Pak-choi,Shanghai,Vague 1,2026-06-08,2026-06-22,Legume feuille rapide,a_semer,
-3,T2,5,2,T2-N5-P2,S013,Pak-choi,Shanghai,Vague 2,2026-06-15,2026-06-29,Succession pak-choi,a_semer,
-1,T2,5,3,T2-N5-P3,S006,Kale / chou frise,Lacinato,Vague 1,2026-06-08,2026-06-22,Feuille productive,a_semer,
-1,T2,5,4,T2-N5-P4,S017,Kale,variete inconnue,Vague 1,2026-06-08,2026-06-22,Feuille productive,a_semer,
-1,T2,6,1,T2-N6-P1,S003,Bette a carde,Rainbow Chard,Vague 1,2026-06-08,2026-06-22,Feuille productive,a_semer,
-1,T2,6,2,T2-N6-P2,S030,Bette a carde,Rainbow Chard,Vague 1,2026-06-08,2026-06-22,Feuille productive,a_semer,
-1,T2,6,3,T2-N6-P3,S026,Basilic,Classique,Vague 1,2026-06-08,2026-06-22,Cuisine reguliere,a_semer,
-3,T2,6,4,T2-N6-P4,S026,Basilic,Classique,Vague 2,2026-06-15,2026-06-29,Cuisine reguliere,a_semer,
-7,T2,7,1,T2-N7-P1,,,,Reserve,2026-07-20,,Reserve pois ou salade,reserve,Utiliser selon consommation familiale
-7,T2,7,2,T2-N7-P2,,,,Reserve,2026-07-20,,Reserve pois ou salade,reserve,Ajouter pois si support disponible
-7,T2,7,3,T2-N7-P3,,,,Reserve,2026-07-20,,Reserve feuilles,reserve,Ajouter pak-choi ou roquette
-7,T2,7,4,T2-N7-P4,,,,Reserve,2026-07-20,,Reserve feuilles,reserve,Garder libre si pois ombragent
+1,T2,3,1,T2-N3-P1,S006,Kale / chou frise,Lacinato,Vague 1,2026-06-08,2026-06-22,Feuille productive,a_semer,
+1,T2,3,2,T2-N3-P2,S017,Kale,variete inconnue,Vague 1,2026-06-08,2026-06-22,Feuille productive,a_semer,
+1,T2,3,3,T2-N3-P3,S003,Bette a carde,Rainbow Chard,Vague 1,2026-06-08,2026-06-22,Feuille productive,a_semer,Haut de bande EC T2 (tolere ~1.8-2.0)
+1,T2,3,4,T2-N3-P4,S030,Bette a carde,Rainbow Chard,Vague 1,2026-06-08,2026-06-22,Feuille productive,a_semer,
+1,T2,4,1,T2-N4-P1,S013,Pak-choi,Shanghai,Vague 1,2026-06-08,2026-06-22,Legume feuille rapide,a_semer,
+1,T2,4,2,T2-N4-P2,S013,Pak-choi,Shanghai,Vague 1,2026-06-08,2026-06-22,Legume feuille rapide,a_semer,
+3,T2,4,3,T2-N4-P3,S013,Pak-choi,Shanghai,Vague 2,2026-06-15,2026-06-29,Succession pak-choi,a_semer,
+1,T2,4,4,T2-N4-P4,S019,Ciboulette,De jardin,Vague 1,2026-06-08,2026-06-22,Aromate coupe au besoin,a_semer,Allium; EC moyenne-haute compatible T2
+3,T2,5,1,T2-N5-P1,S006,Kale / chou frise,Lacinato,Vague 2,2026-06-15,2026-06-29,Recolte continue,a_semer,
+3,T2,5,2,T2-N5-P2,S003,Bette a carde,Rainbow Chard,Vague 2,2026-06-15,2026-06-29,Recolte continue,a_semer,
+1,T2,5,3,T2-N5-P3,S001,Oignon a botteler,Parade,Vague 1,2026-06-08,2026-06-22,Allium coupe au besoin,a_semer,Ajout diversite; bande EC compatible
+1,T2,5,4,T2-N5-P4,S001,Oignon a botteler,Parade,Vague 1,2026-06-08,2026-06-22,Allium coupe au besoin,a_semer,
+7,T2,6,1,T2-N6-P1,,,,Reserve,2026-07-20,,Reserve pois ou feuilles,reserve,Ajouter pois si support disponible
+7,T2,6,2,T2-N6-P2,,,,Reserve,2026-07-20,,Reserve pois ou feuilles,reserve,Ajouter pak-choi ou kale
+7,T2,6,3,T2-N6-P3,,,,Reserve,2026-07-20,,Reserve feuilles,reserve,
+7,T2,6,4,T2-N6-P4,,,,Reserve,2026-07-20,,Reserve feuilles,reserve,Garder libre si pois ombragent
+7,T2,7,1,T2-N7-P1,,,,Reserve,2026-07-20,,Reserve,reserve,
+7,T2,7,2,T2-N7-P2,,,,Reserve,2026-07-20,,Reserve,reserve,
+7,T2,7,3,T2-N7-P3,,,,Reserve,2026-07-20,,Reserve,reserve,
+7,T2,7,4,T2-N7-P4,,,,Reserve,2026-07-20,,Reserve,reserve,
 1,T3,1,1,T3-N1-P1,S016,Tomate cerise,Sunrise Bumble Bee,Vague 1,2026-06-08,2026-07-03,Fruit interieur support,a_semer,
 1,T3,1,2,T3-N1-P2,S016,Tomate cerise,Sunrise Bumble Bee,Vague 1,2026-06-08,2026-07-03,Fruit interieur support,a_semer,
 1,T3,1,3,T3-N1-P3,S031,Concombre,Marketmore,Vague 1,2026-06-08,2026-07-03,Concombre frais salade,a_semer,
 1,T3,1,4,T3-N1-P4,S031,Concombre,Marketmore,Vague 1,2026-06-08,2026-07-03,Concombre frais salade,a_semer,
 1,T3,2,1,T3-N2-P1,S018,Piment jalapeno,TAM,Vague 1,2026-06-08,2026-07-03,Piments moderes adultes,a_semer,
 1,T3,2,2,T3-N2-P2,S018,Piment jalapeno,TAM,Vague 1,2026-06-08,2026-07-03,Piments moderes adultes,a_semer,
-1,T3,2,3,T3-N2-P3,S011,Piment cayenne,Ring of Fire,Vague 1,2026-06-08,2026-07-03,Piment fort cuisson,a_semer,
-1,T3,2,4,T3-N2-P4,S015,Piment habanero,Orange,Vague 1,2026-06-08,2026-07-03,Test piment tres fort limite,a_semer,
-1,T3,3,1,T3-N3-P1,S026,Basilic,Classique,Vague 1,2026-06-08,2026-06-29,Compagnon cuisine,a_semer,
-1,T3,3,2,T3-N3-P2,S024,Basilic,Cannelle,Vague 1,2026-06-08,2026-06-29,Variation basilic,a_semer,
-1,T3,3,3,T3-N3-P3,S009,Courge a moelle,Bianco di Trieste,Test,2026-06-08,2026-07-03,Test courge interieur,a_semer,Retirer si ombrage ou prend trop d'espace
-6,T3,3,4,T3-N3-P4,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre sauf besoin urgent
-6,T3,4,1,T3-N4-P1,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre pour lumiere
-6,T3,4,2,T3-N4-P2,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre pour taille tomates
-6,T3,4,3,T3-N4-P3,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre pour taille concombres
+1,T3,2,3,T3-N2-P3,S011,Piment cayenne,Ring of Fire,Vague 1,2026-06-08,2026-07-03,Piment fort cuisson,a_semer,Cycle long; fructifie au-dela de la semaine 12 (normal)
+1,T3,2,4,T3-N2-P4,S015,Piment habanero,Orange,Vague 1,2026-06-08,2026-07-03,Test piment tres fort,a_semer,Cycle long; fructifie au-dela de la semaine 12 (normal)
+1,T3,3,1,T3-N3-P1,S009,Courge a moelle,Bianco di Trieste,Test,2026-06-08,2026-07-03,Test courge interieur,a_semer,Retirer si ombrage ou prend trop d'espace
+6,T3,3,2,T3-N3-P2,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre pour lumiere
+6,T3,3,3,T3-N3-P3,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre pour taille tomates
+6,T3,3,4,T3-N3-P4,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre pour taille concombres
+6,T3,4,1,T3-N4-P1,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre
+6,T3,4,2,T3-N4-P2,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre
+6,T3,4,3,T3-N4-P3,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre
 6,T3,4,4,T3-N4-P4,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre
 6,T3,5,1,T3-N5-P1,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre
 6,T3,5,2,T3-N5-P2,,,,Reserve,2026-07-13,,Aeration/reserve,reserve,Garder libre

@@ -25,6 +25,18 @@ Ce projet sert a gerer 3 tours Tower Garden, l'inventaire des semences, les plan
 - `docs/guide_implantation_interieur.md` : guide pratique pour le cycle interieur.
 - `archives/` : anciens cycles, photos, exports ou notes.
 
+## Flux des fichiers (eviter la duplication)
+
+Trois fichiers se ressemblent ; chacun a un role distinct :
+
+- `planning/plan_cycle_courant.csv` : **le plan** (source de verite de la planification).
+  Il dit quelle culture va dans quel emplacement, a quelle vague. Les cultures y sont
+  regroupees par bande EC compatible avec chaque tour (voir le guide section 4).
+- `data/plantations.csv` : **le journal reel** des semis et transplantations. On y ajoute
+  une ligne quand l'action est vraiment faite (dates et statut reels).
+- `data/emplacements.csv` : **grille statique** des 84 emplacements (3 x 7 x 4). C'est un
+  miroir optionnel du plan ; en cas de doute, c'est `plan_cycle_courant.csv` qui fait foi.
+
 ## Utilisation suggeree
 
 1. Verifier `data/tours.csv` pour confirmer quelles 2 tours ont des supports pour plantes grimpantes.

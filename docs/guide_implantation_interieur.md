@@ -1,6 +1,11 @@
 # Guide d'implantation interieur - Tower Garden
 
-Cycle guide : du lundi 8 juin 2026 au vendredi 28 aout 2026.
+Cycle de demarrage guide : du lundi 8 juin 2026 au vendredi 28 aout 2026.
+
+Ce calendrier de 12 semaines sert a prendre la routine en main. Ce n'est pas la duree de
+vie du systeme : les 3 tours fonctionnent a l'annee. Apres la semaine 12, la meme routine
+(lundi/vendredi/fin de semaine) se poursuit en continu avec succession permanente (voir la
+section 11).
 
 Disponibilites prevues :
 
@@ -62,35 +67,45 @@ Si un plant est douteux, reporter au prochain lundi ou vendredi. Un transfert re
 
 ## 4. Cibles par tour
 
-### T1 - Salades et aromates
+Chaque tour a un seul reservoir, donc une seule EC et un seul pH pour toutes les cultures
+qu'elle porte. Les cultures sont regroupees par bande EC compatible pour eviter de sur- ou
+sous-nourrir une partie de la tour.
+
+### T1 - Feuilles rapides et aromates douces (bande EC basse, sans support)
 
 - pH : 6.0
 - EC : 1.2-1.5 mS/cm
 - lumiere : 12-16 h/jour
 - intensite : 12 000-25 000 lux
-- temperature : idealement 18-24 C
+- temperature : idealement 18-22 C
 
-T1 doit rester douce pour les laitues, roquettes, coriandre et aromates.
+Cultures : laitues, roquette, basilic, coriandre, persil, moutarde. T1 doit rester douce :
+ces cultures souffrent vite d'une EC trop forte.
 
-### T2 - Pois et feuilles robustes
+### T2 - Feuilles productives et grimpantes legeres (bande EC moyenne, support)
 
-- pH : 6.2-6.4
-- EC : 1.5-1.8 mS/cm
+- pH : 6.2
+- EC : 1.6-1.9 mS/cm
 - lumiere : 14-16 h/jour
 - intensite : 20 000-35 000 lux
-- temperature : idealement 18-24 C
+- temperature : idealement 16-22 C
 
-T2 utilise les supports pour les pois. Garder les pois attaches sans serrer.
+Cultures : pois mange-tout, kale, bette a carde, pak-choi, ciboulette, oignon a botteler.
+T2 utilise les supports pour les pois. Garder les pois attaches sans serrer. La bette accepte
+le haut de la bande EC (~1.8-2.0).
 
-### T3 - Fruits
+### T3 - Fruits et supports (bande EC haute, support)
 
 - pH : 6.0-6.2
 - EC : 2.0-2.4 mS/cm
-- lumiere : 14-18 h/jour
+- lumiere : 14-16 h/jour
 - intensite : 30 000-60 000 lux
 - temperature : idealement 21-27 C
 
-T3 doit rester peu dense. Les espaces libres sont volontaires pour donner lumiere et air aux tomates, concombres et piments.
+Cultures : tomate cerise, concombre, piments, courge (test), haricots si desire. Eviter une
+photoperiode au-dela de 16 h, qui peut causer une chlorose de lumiere continue sur tomate.
+T3 doit rester peu dense : garder au moins 40 % des emplacements libres pour donner lumiere
+et air aux tomates, concombres et piments.
 
 ## 5. Quoi faire si les conditions sortent des cibles
 
@@ -258,4 +273,20 @@ Si une culture echoue :
 
 - noter la cause probable;
 - remplacer par laitue, roquette, basilic ou pak-choi selon la tour.
+
+## 11. Apres la semaine 12 - conduite a l'annee
+
+Le calendrier de 12 semaines est un guide de demarrage, pas une fin. Les tours restent en
+production toute l'annee. Une fois la routine maitrisee :
+
+- continuer la succession sans arret : des qu'un emplacement se libere, resemer selon la
+  bande EC de la tour (T1 feuilles/aromates, T2 feuilles robustes/pois, T3 fruits);
+- les cultures longues (tomate cerise, cayenne, habanero) fructifient apres la semaine 12;
+  c'est normal, les garder en production tant qu'elles donnent;
+- caler les cultures de saison fraiche (pois, coriandre, epinard) sur les periodes moins
+  chaudes; en ete interieur, recolter plus jeune et surveiller la montaison;
+- en hiver, maintenir la photoperiode cible avec les lampes (les jours courts ne suffisent
+  pas) et surveiller une eau de reservoir plus froide;
+- a chaque fin de cycle, archiver le plan dans `archives/` et ajuster `data/preferences.csv`
+  et `planning/scores_cultures.csv` selon ce qui a ete reellement mange.
 
