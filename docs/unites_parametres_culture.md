@@ -11,6 +11,28 @@ Les valeurs de `data/parametres_culture.csv` sont des cibles pratiques pour cult
 - `lumiere_min_h`, `lumiere_max_h`, `lumiere_optimale_h` : photoperiode recommandee par jour.
 - `lux_min`, `lux_max`, `lux_optimal` : intensite lumineuse approximative en lux.
 
+## Colonnes de delais et de hauteur (data/semences.csv)
+
+- `jours_germination` : jours estimes entre le semis et la levee.
+- `jours_semis_transplant` : jours entre le semis et le moment ou le plant est pret a
+  transferer en tour (inclut la germination).
+- `jours_transplant_recolte` : jours entre le transfert et la premiere recolte.
+- `cycle_estime_jours` : cycle total semis -> premiere recolte
+  (= `jours_semis_transplant` + `jours_transplant_recolte`).
+- `hauteur_cm_estimee` : hauteur adulte approximative en cm (sur tour, avec support pour les
+  grimpants).
+- `port_preference` : niveau conseille selon la hauteur (bas <= 30 cm, milieu 31-70, haut > 70),
+  utilise pour le placement par hauteur (voir guide section 12).
+- `graines_par_cube` : nombre de graines a semer par cube de laine de roche. Regle : plus la
+  graine est grosse, moins on en met. Gros fruits (tomate, piment, courge) = 1 ; concombre,
+  pois, haricots = 1-2 ; brassicas et laitues pommees = 1-2 ; epinard = 2-3 ; herbes fines et
+  roquette/melange = 6-8 ; ciboulette = 20-30 ; oignon a botteler = 10-12. Eclaircir apres
+  levee si plusieurs plantules dans un cube destine a un plant unique.
+
+Ces valeurs sont des estimations aeroponiques ; l'aeroponie peut etre ~10-20 % plus rapide que
+le sol. Le plan calcule `date_transfert_estimee` = date de semis + `jours_semis_transplant` et
+`date_recolte_prevue` = date de semis + `cycle_estime_jours`.
+
 ## Lumens et lux
 
 Les lumens mesurent la lumiere totale produite par une lampe. Les lux mesurent les lumens recus par une surface.

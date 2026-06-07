@@ -1,2 +1,39 @@
 plantation_id,semence_id,culture,variete,tour_id,emplacement_id,date_semis,date_transplantation,date_recolte_prevue,statut,notes
-P0001,,,,,,,,,planifie,
+P0001,S026,Basilic,Classique,GERM,GERM-TIEDE,2026-06-06,,2026-07-18,en_germination,Atelier 2026-06-06; prevu T1-N7-P1
+P0002,S026,Basilic,Classique,GERM,GERM-TIEDE,2026-06-06,,2026-07-18,en_germination,Atelier 2026-06-06; prevu T1-N7-P2
+P0003,S027,Coriandre,Santo,GERM,GERM-FRAIS,2026-06-06,,2026-07-18,en_germination,Atelier 2026-06-06; prevu T1-N6-P1
+P0004,S012,Persil italien,Italian Flat Leaf,GERM,GERM-FRAIS,2026-06-06,,2026-08-15,en_germination,Atelier 2026-06-06; prevu T1-N6-P3
+P0005,S002,Moutarde,Wave Miike,GERM,GERM-FRAIS,2026-06-06,,2026-07-15,en_germination,Atelier 2026-06-06; prevu T1-N6-P4
+P0006,S002,Moutarde,Wave Miike,GERM,GERM-FRAIS,2026-06-06,,2026-07-15,en_germination,Atelier 2026-06-06 (surplus atelier); prevu T1-N5-P1
+P0007,S023,Roquette,De jardin,GERM,GERM-FRAIS,2026-06-06,,2026-07-08,en_germination,Atelier 2026-06-06; prevu T1-N5-P2
+P0008,S023,Roquette,De jardin,GERM,GERM-FRAIS,2026-06-06,,2026-07-08,en_germination,Atelier 2026-06-06; prevu T1-N5-P3
+P0009,S023,Roquette,De jardin,GERM,GERM-FRAIS,2026-06-06,,2026-07-08,en_germination,Atelier 2026-06-06 (surplus atelier); prevu T1-N5-P4
+P0010,S010,Laitue romaine,Romaine,GERM,GERM-FRAIS,2026-06-06,,2026-08-01,en_germination,Atelier 2026-06-06; prevu T1-N4-P4
+P0011,S028,Laitue Bibb,Bibb,GERM,GERM-FRAIS,2026-06-06,,2026-07-25,en_germination,Atelier 2026-06-06; prevu T1-N3-P2
+P0012,S007,Laitue,Red Salad Bowl,GERM,GERM-FRAIS,2026-06-06,,2026-07-15,en_germination,Atelier 2026-06-06; prevu T1-N3-P4
+P0013,S005,Laitue,Early Curled Simpson,GERM,GERM-FRAIS,2026-06-06,,2026-07-15,en_germination,Atelier 2026-06-06; prevu T1-N2-P2
+P0014,S021,Pois mange-tout,Cascadia,GERM,GERM-FRAIS,2026-06-06,,2026-08-06,en_germination,Atelier 2026-06-06; prevu T2-N7-P1
+P0015,S021,Pois mange-tout,Cascadia,GERM,GERM-FRAIS,2026-06-06,,2026-08-06,en_germination,Atelier 2026-06-06; prevu T2-N7-P2
+P0016,S021,Pois mange-tout,Cascadia,GERM,GERM-FRAIS,2026-06-06,,2026-08-06,en_germination,Atelier 2026-06-06; prevu T2-N7-P3
+P0017,S021,Pois mange-tout,Cascadia,GERM,GERM-FRAIS,2026-06-06,,2026-08-06,en_germination,Atelier 2026-06-06; prevu T2-N7-P4
+P0018,S025,Pois mange-tout,Oregon Sugar Pod,GERM,GERM-FRAIS,2026-06-06,,2026-08-06,en_germination,Atelier 2026-06-06; prevu T2-N6-P1
+P0019,S025,Pois mange-tout,Oregon Sugar Pod,GERM,GERM-FRAIS,2026-06-06,,2026-08-06,en_germination,Atelier 2026-06-06; prevu T2-N6-P2
+P0020,S025,Pois mange-tout,Oregon Sugar Pod,GERM,GERM-FRAIS,2026-06-06,,2026-08-06,en_germination,Atelier 2026-06-06; prevu T2-N6-P3
+P0021,S025,Pois mange-tout,Oregon Sugar Pod,GERM,GERM-FRAIS,2026-06-06,,2026-08-06,en_germination,Atelier 2026-06-06; prevu T2-N6-P4
+P0022,S006,Kale / chou frise,Lacinato,GERM,GERM-FRAIS,2026-06-06,,2026-07-22,en_germination,Atelier 2026-06-06; prevu T2-N5-P1
+P0023,S017,Kale,variete inconnue,GERM,GERM-FRAIS,2026-06-06,,2026-07-22,en_germination,Atelier 2026-06-06; prevu T2-N5-P3
+P0024,S003,Bette a carde,Rainbow Chard,GERM,GERM-FRAIS,2026-06-06,,2026-07-25,en_germination,Atelier 2026-06-06; prevu T2-N5-P4
+P0025,S001,Oignon a botteler,Parade,GERM,GERM-FRAIS,2026-06-06,,2026-08-08,en_germination,Atelier 2026-06-06; prevu T2-N4-P2
+P0026,S001,Oignon a botteler,Parade,GERM,GERM-FRAIS,2026-06-06,,2026-08-08,en_germination,Atelier 2026-06-06; prevu T2-N4-P3
+P0027,S019,Ciboulette,De jardin,GERM,GERM-FRAIS,2026-06-06,,2026-08-25,en_germination,Atelier 2026-06-06; prevu T2-N4-P4
+P0028,S013,Pak-choi,Shanghai,GERM,GERM-FRAIS,2026-06-06,,2026-07-18,en_germination,Atelier 2026-06-06; prevu T2-N3-P1
+P0029,S013,Pak-choi,Shanghai,GERM,GERM-FRAIS,2026-06-06,,2026-07-18,en_germination,Atelier 2026-06-06; prevu T2-N3-P2
+P0030,S016,Tomate cerise,Sunrise Bumble Bee,GERM,GERM-TIEDE,2026-06-06,,2026-09-01,en_germination,Atelier 2026-06-06; prevu T3-N7-P1
+P0031,S031,Concombre,Marketmore,GERM,GERM-TIEDE,2026-06-06,,2026-08-08,en_germination,Atelier 2026-06-06; prevu T3-N7-P2
+P0032,S016,Tomate cerise,Sunrise Bumble Bee,GERM,GERM-TIEDE,2026-06-06,,2026-09-01,en_germination,Atelier 2026-06-06; prevu T3-N7-P3
+P0033,S031,Concombre,Marketmore,GERM,GERM-TIEDE,2026-06-06,,2026-08-08,en_germination,Atelier 2026-06-06; prevu T3-N7-P4
+P0034,S015,Piment habanero,Orange,GERM,GERM-TIEDE,2026-06-06,,2026-10-08,en_germination,Atelier 2026-06-06; prevu T3-N6-P1
+P0035,S018,Piment jalapeno,TAM,GERM,GERM-TIEDE,2026-06-06,,2026-09-11,en_germination,Atelier 2026-06-06; prevu T3-N6-P2
+P0036,S018,Piment jalapeno,TAM,GERM,GERM-TIEDE,2026-06-06,,2026-09-11,en_germination,Atelier 2026-06-06; prevu T3-N6-P3
+P0037,S011,Piment cayenne,Ring of Fire,GERM,GERM-TIEDE,2026-06-06,,2026-09-16,en_germination,Atelier 2026-06-06; prevu T3-N6-P4
+P0038,S011,Piment cayenne,Ring of Fire,GERM,GERM-TIEDE,2026-06-06,,2026-09-16,en_germination,Atelier 2026-06-06 (surplus atelier); prevu T3-N5-P1

@@ -9,11 +9,11 @@ S014,Melange de laitues,Gourmet Lettuce,4,4,4,5,5,5,4.40,retenir,Blend facile
 S023,Roquette,De jardin,4,4,4,5,5,4,4.20,retenir,Salade piquante rapide
 S035,Roquette sauvage,Arugula,3,3,4,5,4,5,3.85,succession,Plus intense; surveiller acceptation enfants
 S026,Basilic,Classique,5,4,5,4,5,4,4.60,retenir,Cuisine reguliere
-S024,Basilic,Cannelle,3,3,4,4,4,5,3.70,retenir,Variation aromatique
+S024,Basilic,Cannelle,3,3,4,4,4,5,3.70,exclure_cycle,Abandonne au cycle courant (atelier 2026-06-06)
 S027,Coriandre,Santo,3,3,4,4,3,4,3.45,succession,Monte vite; garder en petites vagues
 S012,Persil italien,Italian Flat Leaf,3,3,3,4,4,3,3.35,retenir,Aromate stable
 S019,Ciboulette,De jardin,3,3,3,4,5,3,3.45,retenir,Coupe au besoin
-S002,Moutarde,Wave Miike,2,3,3,5,4,4,3.20,reserve,Gout piquant; petite quantite
+S002,Moutarde,Wave Miike,2,3,3,5,4,4,3.20,retenir,Gout piquant; plante en petite quantite (1 emplacement T1)
 S013,Pak-choi,Shanghai,4,4,4,4,4,4,4.00,retenir,Legume feuille rapide
 S006,Kale / chou frise,Lacinato,4,5,3,4,4,4,4.05,retenir,Feuille productive
 S017,Kale,variete inconnue,3,4,3,4,4,3,3.55,retenir,Tester contre Lacinato
@@ -26,12 +26,12 @@ S031,Concombre,Marketmore,5,5,4,3,3,5,4.35,retenir,Meilleur concombre frais disp
 S018,Piment jalapeno,TAM,3,4,4,4,4,4,3.75,retenir,Piment modere adultes
 S011,Piment cayenne,Ring of Fire,2,3,3,4,4,4,3.00,retenir_limiter,Un plant suffit
 S015,Piment habanero,Orange,1,3,3,3,3,4,2.45,test_limiter,Tres fort; garder a 1 plant
-S009,Courge a moelle,Bianco di Trieste,3,4,3,2,1,5,3.00,test,Risque eleve interieur; retirer si ombre
+S009,Courge a moelle,Bianco di Trieste,3,4,3,2,1,5,3.00,exclure_cycle,Abandonne au cycle courant (atelier 2026-06-06)
 S004,Concombre,Sumter,3,4,3,3,3,4,3.35,reserve,Plutot marinade/croquant
 S033,Concombre a marinades,National Pickling,3,4,3,3,3,4,3.35,reserve,Plutot marinade
 S022,Haricot nain,Maxibel,3,4,3,3,3,4,3.35,reserve,Possible si pois decevants
 S032,Haricot grimpant,Kentucky Wonder,3,4,3,2,2,4,3.05,exclure_cycle,Plus envahissant que les pois
 S008,Epinard,Giant Noble,3,3,3,3,3,3,3.00,exclure_cycle,Interieur chaud/lampes puissantes moins ideal
 S020,Aneth,De jardin,2,2,3,3,3,3,2.55,exclure_cycle,Priorite plus faible ce cycle
-S001,Oignon a botteler,Parade,2,3,3,4,4,3,3.05,reserve,Bon ajout futur
+S001,Oignon a botteler,Parade,2,3,3,4,4,3,3.05,retenir,Ajoute en T2 (bande EC moyenne) pour diversite allium
 S029,Laitue romaine,Romaine,4,4,4,5,5,4,4.20,retenir,Doublon romaine utilise en T2
