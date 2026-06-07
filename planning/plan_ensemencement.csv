@@ -1,29 +1,26 @@
 date_semis,semence_id,culture,variete,nb_cubes,vague,date_transfert_estimee,conditions_transfert
-2026-06-08,S023,Roquette,De jardin,2,Vague 1,2026-06-22,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
-2026-06-08,S002,Moutarde,Wave Miike,1,Vague 1,2026-06-26,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
-2026-06-08,S005,Laitue,Early Curled Simpson,1,Vague 1,2026-06-26,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
-2026-06-08,S007,Laitue,Red Salad Bowl,1,Vague 1,2026-06-26,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
-2026-06-08,S013,Pak-choi,Shanghai,2,Vague 1,2026-06-26,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
-2026-06-08,S003,Bette a carde,Rainbow Chard,1,Vague 1,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
-2026-06-08,S006,Kale / chou frise,Lacinato,1,Vague 1,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
-2026-06-08,S010,Laitue romaine,Romaine,1,Vague 1,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
-2026-06-08,S017,Kale,variete inconnue,1,Vague 1,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
-2026-06-08,S021,Pois mange-tout,Cascadia,4,Vague 1,2026-06-29,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T2 pH 6.2 EC 1.6-1.9
-2026-06-08,S024,Basilic,Cannelle,1,Vague 1,2026-06-29,Racines visibles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
-2026-06-08,S025,Pois mange-tout,Oregon Sugar Pod,4,Vague 1,2026-06-29,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T2 pH 6.2 EC 1.6-1.9
-2026-06-08,S026,Basilic,Classique,2,Vague 1,2026-06-29,Racines visibles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
-2026-06-08,S027,Coriandre,Santo,1,Vague 1,2026-06-29,Racines visibles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
-2026-06-08,S028,Laitue Bibb,Bibb,1,Vague 1,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
-2026-06-08,S030,Bette a carde,Rainbow Chard,1,Vague 1,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
-2026-06-08,S001,Oignon a botteler,Parade,2,Vague 1,2026-07-06,Racines visibles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
-2026-06-08,S009,Courge a moelle,Bianco di Trieste,1,Test,2026-07-06,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T3 pH 6.0-6.2 EC 2.0-2.4
-2026-06-08,S031,Concombre,Marketmore,2,Vague 1,2026-07-06,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T3 pH 6.0-6.2 EC 2.0-2.4
-2026-06-08,S012,Persil italien,Italian Flat Leaf,1,Vague 1,2026-07-13,Racines visibles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
-2026-06-08,S019,Ciboulette,De jardin,1,Vague 1,2026-07-13,Racines visibles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
-2026-06-08,S011,Piment cayenne,Ring of Fire,1,Vague 1,2026-07-20,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T3 pH 6.0-6.2 EC 2.0-2.4
-2026-06-08,S016,Tomate cerise,Sunrise Bumble Bee,2,Vague 1,2026-07-20,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T3 pH 6.0-6.2 EC 2.0-2.4
-2026-06-08,S018,Piment jalapeno,TAM,2,Vague 1,2026-07-20,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T3 pH 6.0-6.2 EC 2.0-2.4
-2026-06-08,S015,Piment habanero,Orange,1,Vague 1,2026-07-27,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T3 pH 6.0-6.2 EC 2.0-2.4
+2026-06-06,S023,Roquette,De jardin,3,Vague 1,2026-06-22,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
+2026-06-06,S002,Moutarde,Wave Miike,2,Vague 1,2026-06-26,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
+2026-06-06,S005,Laitue,Early Curled Simpson,1,Vague 1,2026-06-26,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
+2026-06-06,S007,Laitue,Red Salad Bowl,1,Vague 1,2026-06-26,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
+2026-06-06,S013,Pak-choi,Shanghai,2,Vague 1,2026-06-26,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
+2026-06-06,S003,Bette a carde,Rainbow Chard,1,Vague 1,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
+2026-06-06,S006,Kale / chou frise,Lacinato,1,Vague 1,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
+2026-06-06,S010,Laitue romaine,Romaine,1,Vague 1,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
+2026-06-06,S017,Kale,variete inconnue,1,Vague 1,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
+2026-06-06,S021,Pois mange-tout,Cascadia,4,Vague 1,2026-06-29,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T2 pH 6.2 EC 1.6-1.9
+2026-06-06,S025,Pois mange-tout,Oregon Sugar Pod,4,Vague 1,2026-06-29,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T2 pH 6.2 EC 1.6-1.9
+2026-06-06,S026,Basilic,Classique,2,Vague 1,2026-06-29,Racines visibles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
+2026-06-06,S027,Coriandre,Santo,1,Vague 1,2026-06-29,Racines visibles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
+2026-06-06,S028,Laitue Bibb,Bibb,1,Vague 1,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
+2026-06-06,S001,Oignon a botteler,Parade,2,Vague 1,2026-07-06,Racines visibles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
+2026-06-06,S031,Concombre,Marketmore,2,Vague 1,2026-07-06,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T3 pH 6.0-6.2 EC 2.0-2.4
+2026-06-06,S012,Persil italien,Italian Flat Leaf,1,Vague 1,2026-07-13,Racines visibles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
+2026-06-06,S019,Ciboulette,De jardin,1,Vague 1,2026-07-13,Racines visibles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
+2026-06-06,S011,Piment cayenne,Ring of Fire,2,Vague 1,2026-07-20,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T3 pH 6.0-6.2 EC 2.0-2.4
+2026-06-06,S016,Tomate cerise,Sunrise Bumble Bee,2,Vague 1,2026-07-20,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T3 pH 6.0-6.2 EC 2.0-2.4
+2026-06-06,S018,Piment jalapeno,TAM,2,Vague 1,2026-07-20,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T3 pH 6.0-6.2 EC 2.0-2.4
+2026-06-06,S015,Piment habanero,Orange,1,Vague 1,2026-07-27,Racines visibles; plant vigoureux et trapu; racines fortes; lumiere forte; T3 pH 6.0-6.2 EC 2.0-2.4
 2026-06-15,S023,Roquette,De jardin,1,Vague 2,2026-06-29,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
 2026-06-15,S007,Laitue,Red Salad Bowl,1,Vague 2,2026-07-03,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
 2026-06-15,S013,Pak-choi,Shanghai,1,Vague 2,2026-07-03,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
@@ -32,7 +29,6 @@ date_semis,semence_id,culture,variete,nb_cubes,vague,date_transfert_estimee,cond
 2026-06-15,S036,Laitue,Prizehead,1,Vague 2,2026-07-03,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
 2026-06-15,S003,Bette a carde,Rainbow Chard,1,Vague 2,2026-07-06,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
 2026-06-15,S006,Kale / chou frise,Lacinato,1,Vague 2,2026-07-06,Racines visibles; 2 vraies feuilles; plant non etiole; T2 pH 6.2 EC 1.6-1.9
-2026-06-15,S024,Basilic,Cannelle,1,Vague 2,2026-07-06,Racines visibles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
 2026-06-15,S026,Basilic,Classique,1,Vague 2,2026-07-06,Racines visibles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
 2026-06-15,S027,Coriandre,Santo,1,Vague 2,2026-07-06,Racines visibles; plant non etiole; T1 pH 6.0 EC 1.2-1.5
 2026-06-15,S035,Roquette sauvage,Arugula,1,Vague 2,2026-07-06,Racines visibles; 2 vraies feuilles; plant non etiole; T1 pH 6.0 EC 1.2-1.5

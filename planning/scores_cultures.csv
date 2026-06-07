@@ -9,7 +9,7 @@ S014,Melange de laitues,Gourmet Lettuce,4,4,4,5,5,5,4.40,retenir,Blend facile
 S023,Roquette,De jardin,4,4,4,5,5,4,4.20,retenir,Salade piquante rapide
 S035,Roquette sauvage,Arugula,3,3,4,5,4,5,3.85,succession,Plus intense; surveiller acceptation enfants
 S026,Basilic,Classique,5,4,5,4,5,4,4.60,retenir,Cuisine reguliere
-S024,Basilic,Cannelle,3,3,4,4,4,5,3.70,retenir,Variation aromatique
+S024,Basilic,Cannelle,3,3,4,4,4,5,3.70,exclure_cycle,Abandonne au cycle courant (atelier 2026-06-06)
 S027,Coriandre,Santo,3,3,4,4,3,4,3.45,succession,Monte vite; garder en petites vagues
 S012,Persil italien,Italian Flat Leaf,3,3,3,4,4,3,3.35,retenir,Aromate stable
 S019,Ciboulette,De jardin,3,3,3,4,5,3,3.45,retenir,Coupe au besoin
@@ -26,7 +26,7 @@ S031,Concombre,Marketmore,5,5,4,3,3,5,4.35,retenir,Meilleur concombre frais disp
 S018,Piment jalapeno,TAM,3,4,4,4,4,4,3.75,retenir,Piment modere adultes
 S011,Piment cayenne,Ring of Fire,2,3,3,4,4,4,3.00,retenir_limiter,Un plant suffit
 S015,Piment habanero,Orange,1,3,3,3,3,4,2.45,test_limiter,Tres fort; garder a 1 plant
-S009,Courge a moelle,Bianco di Trieste,3,4,3,2,1,5,3.00,test,Risque eleve interieur; retirer si ombre
+S009,Courge a moelle,Bianco di Trieste,3,4,3,2,1,5,3.00,exclure_cycle,Abandonne au cycle courant (atelier 2026-06-06)
 S004,Concombre,Sumter,3,4,3,3,3,4,3.35,reserve,Plutot marinade/croquant
 S033,Concombre a marinades,National Pickling,3,4,3,3,3,4,3.35,reserve,Plutot marinade
 S022,Haricot nain,Maxibel,3,4,3,3,3,4,3.35,reserve,Possible si pois decevants
