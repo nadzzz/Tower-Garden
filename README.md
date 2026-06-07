@@ -6,7 +6,7 @@ Ce projet sert a gerer 3 tours Tower Garden, l'inventaire des semences, les plan
 
 - `data/semences.csv` : inventaire des semences (avec delais de croissance par etape, hauteur estimee et port conseille).
 - `data/tours.csv` : description des 3 tours et capacite de planification.
-- `data/emplacements.csv` : grille des emplacements de plantation par tour.
+- `data/emplacements.csv` : grille des 84 ports de tour, peuplee en miroir du plan projete (culture prevue, statut, lien plantation_id).
 - `data/plantations.csv` : suivi des semis, transplantations, et statuts.
 - `data/recoltes.csv` : suivi des recoltes par culture.
 - `data/consommation.csv` : besoins personnels et quantites consommees.
@@ -33,9 +33,24 @@ Trois fichiers se ressemblent ; chacun a un role distinct :
   Il dit quelle culture va dans quel emplacement, a quelle vague. Les cultures y sont
   regroupees par bande EC compatible avec chaque tour (voir le guide section 4).
 - `data/plantations.csv` : **le journal reel** des semis et transplantations. On y ajoute
-  une ligne quand l'action est vraiment faite (dates et statut reels).
-- `data/emplacements.csv` : **grille statique** des 84 emplacements (3 x 7 x 4). C'est un
-  miroir optionnel du plan ; en cas de doute, c'est `plan_cycle_courant.csv` qui fait foi.
+  une ligne quand l'action est vraiment faite (dates et statut reels). La colonne
+  `tour_id`/`emplacement_id` donne le **lieu courant** du plant ; tant qu'il germine, ce lieu
+  est la mini-serre (voir codes de lieu ci-dessous), et le spot de tour prevu est rappele dans
+  `notes` (« prevu T1-N7-P1 »).
+- `data/emplacements.csv` : **grille des 84 ports de tour** (3 x 7 x 4), peuplee comme **miroir
+  du plan projete**. Pour chaque port : `culture_planifiee`, `statut`
+  (`en_germination` si un plant lui est deja attribue, `planifie` pour une vague a venir,
+  `reserve` sinon) et `plantation_id` qui **relie** le port au plant correspondant de
+  `plantations.csv`. En cas de doute, `plan_cycle_courant.csv` fait foi.
+
+### Codes de lieu (lieu courant dans `plantations.csv`)
+
+- `GERM` = **mini-serre de germination** (bac a couvercle dome sur tapis chauffant), avec deux
+  zones : `GERM-TIEDE` (cote tapis : fruits et basilic) et `GERM-FRAIS` (le reste).
+- `T1`/`T2`/`T3` + `emplacement_id` (ex. `T2-N7-P1`) = une fois transplante en tour.
+
+Au transfert : passer `statut` a `en_tour`, mettre `tour_id`/`emplacement_id` au vrai port,
+remplir `date_transplantation`, et mettre a jour le `statut` du port dans `emplacements.csv`.
 
 ## Utilisation suggeree
 
