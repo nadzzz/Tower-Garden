@@ -1,5 +1,7 @@
 parametre,valeur,unite,notes
-ec_pleine_force,2.2,mS/cm,"EC produite par la PLEINE FORCE du tableau (16 g MB / 8 g MgSO4 / 16 g CaNO3 pour 25 L). VALEUR A CALIBRER: mesure l'EC apres ton premier melange a pleine force et remplace ce chiffre."
+ec_pleine_force,2.48,mS/cm,"CALIBRE le 2026-06-21 (VIVOSUN, ronde 2): pente ~51 uS/cm par g de Masterblend dans 75.7 L. EC produite a pleine force (0.64 g/L MB). Remesurer si on change de sel/eau."
+eau_base_uS,241,uS/cm,"EC de l'eau fraiche du robinet (mesuree ~241 uS/cm). Sert au calcul de dilution et de recette fraiche. A re-mesurer au besoin."
+ppm_facteur,0.5,ratio,"VIVOSUN TDS&EC: ppm = uS/cm x 0.5. Le compteur affiche AUSSI les uS/cm (bouton MODE) -- a privilegier pour eviter toute confusion."
 litres_par_gallon,3.78541,L/gallon,"Gallon US (standard Tower Garden). 20 gal US = 75.7 L."
 ph_cible_min,5.5,pH,Plage hydroponie (etiquette Gecko Grow)
 ph_cible_max,6.5,pH,Plage hydroponie (etiquette Gecko Grow)

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Grille de plantation - Tower Garden</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: "Segoe UI", Arial, sans-serif; color: #1a2e1a; margin: 24px; }
+  h1 { font-size: 20px; margin: 0 0 2px; }
+  .sub { color: #5a6b5a; font-size: 12px; margin: 0 0 18px; }
+  .legende { font-size: 11px; color: #5a6b5a; margin-bottom: 14px; }
+  .tour { page-break-inside: avoid; margin-bottom: 26px; }
+  .tour h2 { font-size: 15px; background: #2f6b2f; color: #fff; padding: 6px 10px; border-radius: 5px 5px 0 0; margin: 0; }
+  table { border-collapse: collapse; width: 100%; table-layout: fixed; }
+  th, td { border: 1px solid #b8c8b8; padding: 6px 7px; vertical-align: top; height: 64px; }
+  th { background: #e8f0e8; font-size: 11px; font-weight: 600; text-align: center; height: auto; }
+  th.niv { width: 58px; }
+  td.niv { background: #e8f0e8; font-weight: 600; text-align: center; font-size: 12px; vertical-align: middle; }
+  .nom { font-weight: 700; font-size: 13px; line-height: 1.15; }
+  .type { font-style: italic; color: #3a5a3a; font-size: 11px; }
+  .id { color: #777; font-size: 10px; margin-top: 3px; letter-spacing: .3px; }
+  .vide { background: #f6f8f6; }
+  .chk { float: right; width: 14px; height: 14px; border: 1.5px solid #2f6b2f; border-radius: 3px; }
+  @media print {
+    body { margin: 8mm; }
+    .tour { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+<h1>Grille de plantation &mdash; Tower Garden</h1>
+<p class="sub">Plants en germination &agrave; transplanter &middot; 38 plants &middot; imprim&eacute; le 2026-06-09</p>
+<p class="legende"><strong>Lecture :</strong> chaque case = un emplacement (Niveau &times; Position). Nom du plant en gras, <span class="type">vari&eacute;t&eacute;</span> indiqu&eacute;e quand le nom est partag&eacute; par d'autres plants, puis l'ID de plantation. Cochez &#9744; une fois le plant install&eacute;.</p>
+
+<!-- TOUR 1 -->
+<div class="tour">
+<h2>Tour 1 &mdash; Salades &amp; aromates</h2>
+<table>
+  <tr><th class="niv">Niveau</th><th>Position 1</th><th>Position 2</th><th>Position 3</th><th>Position 4</th></tr>
+  <tr><td class="niv">1</td><td class="vide"></td><td class="vide"></td><td class="vide"></td><td class="vide"></td></tr>
+  <tr><td class="niv">2</td>
+    <td class="vide"></td>
+    <td><span class="chk"></span><div class="nom">Laitue</div><div class="type">Early Curled Simpson</div><div class="id">P0013</div></td>
+    <td class="vide"></td>
+    <td class="vide"></td></tr>
+  <tr><td class="niv">3</td>
+    <td class="vide"></td>
+    <td><span class="chk"></span><div class="nom">Laitue Bibb</div><div class="id">P0011</div></td>
+    <td class="vide"></td>
+    <td><span class="chk"></span><div class="nom">Laitue</div><div class="type">Red Salad Bowl</div><div class="id">P0012</div></td></tr>
+  <tr><td class="niv">4</td>
+    <td class="vide"></td>
+    <td class="vide"></td>
+    <td class="vide"></td>
+    <td><span class="chk"></span><div class="nom">Laitue romaine</div><div class="id">P0010</div></td></tr>
+  <tr><td class="niv">5</td>
+    <td><span class="chk"></span><div class="nom">Moutarde</div><div class="type">Wave Miike</div><div class="id">P0006</div></td>
+    <td><span class="chk"></span><div class="nom">Roquette</div><div class="type">De jardin</div><div class="id">P0007</div></td>
+    <td><span class="chk"></span><div class="nom">Roquette</div><div class="type">De jardin</div><div class="id">P0008</div></td>
+    <td><span class="chk"></span><div class="nom">Roquette</div><div class="type">De jardin</div><div class="id">P0009</div></td></tr>
+  <tr><td class="niv">6</td>
+    <td><span class="chk"></span><div class="nom">Coriandre</div><div class="id">P0003</div></td>
+    <td class="vide"></td>
+    <td><span class="chk"></span><div class="nom">Persil italien</div><div class="id">P0004</div></td>
+    <td><span class="chk"></span><div class="nom">Moutarde</div><div class="type">Wave Miike</div><div class="id">P0005</div></td></tr>
+  <tr><td class="niv">7</td>
+    <td><span class="chk"></span><div class="nom">Basilic</div><div class="type">Classique</div><div class="id">P0001</div></td>
+    <td><span class="chk"></span><div class="nom">Basilic</div><div class="type">Classique</div><div class="id">P0002</div></td>
+    <td class="vide"></td>
+    <td class="vide"></td></tr>
+</table>
+</div>
+
+<!-- TOUR 2 -->
+<div class="tour">
+<h2>Tour 2 &mdash; Choux, pois &amp; l&eacute;gumes-feuilles</h2>
+<table>
+  <tr><th class="niv">Niveau</th><th>Position 1</th><th>Position 2</th><th>Position 3</th><th>Position 4</th></tr>
+  <tr><td class="niv">1</td><td class="vide"></td><td class="vide"></td><td class="vide"></td><td class="vide"></td></tr>
+  <tr><td class="niv">2</td><td class="vide"></td><td class="vide"></td><td class="vide"></td><td class="vide"></td></tr>
+  <tr><td class="niv">3</td>
+    <td><span class="chk"></span><div class="nom">Pak-choi</div><div class="type">Shanghai</div><div class="id">P0028</div></td>
+    <td><span class="chk"></span><div class="nom">Pak-choi</div><div class="type">Shanghai</div><div class="id">P0029</div></td>
+    <td class="vide"></td>
+    <td class="vide"></td></tr>
+  <tr><td class="niv">4</td>
+    <td class="vide"></td>
+    <td><span class="chk"></span><div class="nom">Oignon &agrave; botteler</div><div class="type">Parade</div><div class="id">P0025</div></td>
+    <td><span class="chk"></span><div class="nom">Oignon &agrave; botteler</div><div class="type">Parade</div><div class="id">P0026</div></td>
+    <td><span class="chk"></span><div class="nom">Ciboulette</div><div class="id">P0027</div></td></tr>
+  <tr><td class="niv">5</td>
+    <td><span class="chk"></span><div class="nom">Kale / chou fris&eacute;</div><div class="id">P0022</div></td>
+    <td class="vide"></td>
+    <td><span class="chk"></span><div class="nom">Kale</div><div class="id">P0023</div></td>
+    <td><span class="chk"></span><div class="nom">Bette &agrave; carde</div><div class="id">P0024</div></td></tr>
+  <tr><td class="niv">6</td>
+    <td><span class="chk"></span><div class="nom">Pois mange-tout</div><div class="type">Oregon Sugar Pod</div><div class="id">P0018</div></td>
+    <td><span class="chk"></span><div class="nom">Pois mange-tout</div><div class="type">Oregon Sugar Pod</div><div class="id">P0019</div></td>
+    <td><span class="chk"></span><div class="nom">Pois mange-tout</div><div class="type">Oregon Sugar Pod</div><div class="id">P0020</div></td>
+    <td><span class="chk"></span><div class="nom">Pois mange-tout</div><div class="type">Oregon Sugar Pod</div><div class="id">P0021</div></td></tr>
+  <tr><td class="niv">7</td>
+    <td><span class="chk"></span><div class="nom">Pois mange-tout</div><div class="type">Cascadia</div><div class="id">P0014</div></td>
+    <td><span class="chk"></span><div class="nom">Pois mange-tout</div><div class="type">Cascadia</div><div class="id">P0015</div></td>
+    <td><span class="chk"></span><div class="nom">Pois mange-tout</div><div class="type">Cascadia</div><div class="id">P0016</div></td>
+    <td><span class="chk"></span><div class="nom">Pois mange-tout</div><div class="type">Cascadia</div><div class="id">P0017</div></td></tr>
+</table>
+</div>
+
+<!-- TOUR 3 -->
+<div class="tour">
+<h2>Tour 3 &mdash; Fruits &amp; piments</h2>
+<table>
+  <tr><th class="niv">Niveau</th><th>Position 1</th><th>Position 2</th><th>Position 3</th><th>Position 4</th></tr>
+  <tr><td class="niv">1</td><td class="vide"></td><td class="vide"></td><td class="vide"></td><td class="vide"></td></tr>
+  <tr><td class="niv">2</td><td class="vide"></td><td class="vide"></td><td class="vide"></td><td class="vide"></td></tr>
+  <tr><td class="niv">3</td><td class="vide"></td><td class="vide"></td><td class="vide"></td><td class="vide"></td></tr>
+  <tr><td class="niv">4</td><td class="vide"></td><td class="vide"></td><td class="vide"></td><td class="vide"></td></tr>
+  <tr><td class="niv">5</td>
+    <td><span class="chk"></span><div class="nom">Piment cayenne</div><div class="type">Ring of Fire</div><div class="id">P0038</div></td>
+    <td class="vide"></td>
+    <td class="vide"></td>
+    <td class="vide"></td></tr>
+  <tr><td class="niv">6</td>
+    <td><span class="chk"></span><div class="nom">Piment habanero</div><div class="id">P0034</div></td>
+    <td><span class="chk"></span><div class="nom">Piment jalapeno</div><div class="type">TAM</div><div class="id">P0035</div></td>
+    <td><span class="chk"></span><div class="nom">Piment jalapeno</div><div class="type">TAM</div><div class="id">P0036</div></td>
+    <td><span class="chk"></span><div class="nom">Piment cayenne</div><div class="type">Ring of Fire</div><div class="id">P0037</div></td></tr>
+  <tr><td class="niv">7</td>
+    <td><span class="chk"></span><div class="nom">Tomate cerise</div><div class="type">Sunrise Bumble Bee</div><div class="id">P0030</div></td>
+    <td><span class="chk"></span><div class="nom">Concombre</div><div class="type">Marketmore</div><div class="id">P0031</div></td>
+    <td><span class="chk"></span><div class="nom">Tomate cerise</div><div class="type">Sunrise Bumble Bee</div><div class="id">P0032</div></td>
+    <td><span class="chk"></span><div class="nom">Concombre</div><div class="type">Marketmore</div><div class="id">P0033</div></td></tr>
+</table>
+</div>
+
+</body>
+</html>
