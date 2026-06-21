@@ -1,0 +1,5 @@
+parametre,valeur,unite,notes
+ec_pleine_force,2.2,mS/cm,"EC produite par la PLEINE FORCE du tableau (16 g MB / 8 g MgSO4 / 16 g CaNO3 pour 25 L). VALEUR A CALIBRER: mesure l'EC apres ton premier melange a pleine force et remplace ce chiffre."
+litres_par_gallon,3.78541,L/gallon,"Gallon US (standard Tower Garden). 20 gal US = 75.7 L."
+ph_cible_min,5.5,pH,Plage hydroponie (etiquette Gecko Grow)
+ph_cible_max,6.5,pH,Plage hydroponie (etiquette Gecko Grow)

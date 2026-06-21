@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="832" viewBox="0 0 940 832" font-family="Segoe UI, Arial, sans-serif">
+<rect width="940" height="832" fill="#f7faf5"/>
+<rect x="0" y="0" width="940" height="92" fill="#2e7d32"/>
+<text x="40" y="46" fill="#ffffff" font-size="30" font-weight="700">Feuille de calcul des nutriments — Tower Garden</text>
+<text x="40" y="76" fill="#d7f0d2" font-size="17">Masterblend (Gecko Grow) • ratio 2:1:2 • dosage proportionnel à la hausse d’EC</text>
+<rect x="40" y="128" width="860" height="186" rx="10" fill="#ffffff" stroke="#cde0c6"/>
+<text x="62" y="162" font-size="20" font-weight="700" fill="#2e7d32">Recette de base (étiquette)</text>
+<text x="62" y="194" font-size="16" fill="#333">1. Dissoudre le Part 1 (Masterblend) ET le Part 2 (sulfate de magnésium) dans l’eau tiède.</text>
+<text x="62" y="220" font-size="16" fill="#333">2. Ajouter le Part 3 (nitrate de calcium) EN DERNIER, une fois les deux premiers bien dissous.</text>
+<text x="62" y="246" font-size="16" fill="#333">Plage de pH (hydroponie) : 5.5 – 6.5.</text>
+<text x="62" y="272" font-size="16" fill="#333">Ne jamais mélanger les concentrés secs ensemble (risque de blocage des nutriments).</text>
+<rect x="62" y="256" width="258" height="34" rx="17" fill="#2e7d32"/>
+<text x="78" y="279" font-size="15" fill="#fff" font-weight="600">Part 1 – Masterblend : 0,64 g/L (pleine force)</text>
+<rect x="332" y="256" width="258" height="34" rx="17" fill="#00796b"/>
+<text x="348" y="279" font-size="15" fill="#fff" font-weight="600">Part 2 – Sulfate Mg : 0,32 g/L (pleine force)</text>
+<rect x="602" y="256" width="258" height="34" rx="17" fill="#ef6c00"/>
+<text x="618" y="279" font-size="15" fill="#fff" font-weight="600">Part 3 – Nitrate Ca : 0,64 g/L (pleine force)</text>
+<text x="40" y="350" font-size="22" font-weight="700" fill="#2e7d32">Grammes à peser par tour</text>
+<text x="40" y="376" font-size="15" fill="#555">Réservoir 20 gallons = 75.7 L • calibration EC pleine force = 2.20 mS/cm</text>
+<rect x="40" y="400" width="800" height="56" fill="#2e7d32"/>
+<text x="75.0" y="424" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Tour</text>
+<text x="155.0" y="422" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">EC</text>
+<text x="155.0" y="440" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">initial</text>
+<text x="245.0" y="422" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">EC</text>
+<text x="245.0" y="440" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">cible</text>
+<text x="330.0" y="424" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">ΔEC</text>
+<text x="455.0" y="422" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Part 1</text>
+<text x="455.0" y="440" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Masterblend</text>
+<text x="615.0" y="422" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Part 2</text>
+<text x="615.0" y="440" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Sulfate Mg</text>
+<text x="765.0" y="422" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Part 3</text>
+<text x="765.0" y="440" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Nitrate Ca</text>
+<rect x="40" y="456" width="800" height="54" fill="#eef6ea" stroke="#e0e8db"/>
+<text x="75.0" y="489.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">T1</text>
+<text x="155.0" y="489.0" font-size="17" font-weight="400" fill="#222" text-anchor="middle">0.77</text>
+<text x="245.0" y="489.0" font-size="17" font-weight="400" fill="#222" text-anchor="middle">1.10</text>
+<text x="330.0" y="489.0" font-size="17" font-weight="400" fill="#222" text-anchor="middle">0.33</text>
+<text x="455.0" y="489.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">7.3 g</text>
+<text x="615.0" y="489.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">3.6 g</text>
+<text x="765.0" y="489.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">7.3 g</text>
+<rect x="40" y="510" width="800" height="54" fill="#ffffff" stroke="#e0e8db"/>
+<text x="75.0" y="543.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">T2</text>
+<text x="155.0" y="543.0" font-size="17" font-weight="400" fill="#222" text-anchor="middle">0.77</text>
+<text x="245.0" y="543.0" font-size="17" font-weight="400" fill="#222" text-anchor="middle">1.65</text>
+<text x="330.0" y="543.0" font-size="17" font-weight="400" fill="#222" text-anchor="middle">0.88</text>
+<text x="455.0" y="543.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">19.4 g</text>
+<text x="615.0" y="543.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">9.7 g</text>
+<text x="765.0" y="543.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">19.4 g</text>
+<rect x="40" y="564" width="800" height="54" fill="#fff5e9" stroke="#e0e8db"/>
+<text x="75.0" y="597.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">T3</text>
+<text x="155.0" y="597.0" font-size="17" font-weight="400" fill="#222" text-anchor="middle">0.77</text>
+<text x="245.0" y="597.0" font-size="17" font-weight="400" fill="#222" text-anchor="middle">2.15</text>
+<text x="330.0" y="597.0" font-size="17" font-weight="400" fill="#222" text-anchor="middle">1.38</text>
+<text x="455.0" y="597.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">30.4 g</text>
+<text x="615.0" y="597.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">15.2 g</text>
+<text x="765.0" y="597.0" font-size="17" font-weight="700" fill="#222" text-anchor="middle">30.4 g</text>
+<rect x="40" y="654" width="860" height="118" rx="10" fill="#ffffff" stroke="#cde0c6"/>
+<text x="62" y="686" font-size="18" font-weight="700" fill="#2e7d32">Formule</text>
+<text x="62" y="716" font-size="16" fill="#333">grammes = g/L (pleine force) × litres × (EC désiré − EC initial) ÷ EC pleine force</text>
+<text x="62" y="744" font-size="15" fill="#666">Sulfate Mg = moitié du Masterblend • Nitrate Ca = égal au Masterblend • ΔEC ≤ 0 → rien à ajouter.</text>
+<text x="40" y="810" font-size="13" fill="#999">Généré par outils/calcul_nutriments.py — EC initial fourni en argument.</text>
+</svg>

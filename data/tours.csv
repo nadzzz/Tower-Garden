@@ -1,4 +1,4 @@
-tour_id,nom,niveaux,emplacements_par_niveau,emplacements_prevus,support_grimpantes,role_suggere,notes
-T1,Tour 1,7,4,28,Non,Feuilles rapides et aromates,"Laitues, roquette, moutarde, coriandre, basilic"
-T2,Tour 2,7,4,28,Oui,Feuilles productives et grimpantes legeres,"Kale, bette a carde, pak-choi, epinard, pois, haricots"
-T3,Tour 3,7,4,28,Oui,Fruits et cultures a support,"Tomates, concombres, pois, haricots, piments"
+tour_id,nom,niveaux,emplacements_par_niveau,emplacements_prevus,support_grimpantes,role_suggere,notes,volume_gallons,ec_desire_ms_cm
+T1,Tour 1,7,4,28,Non,Feuilles rapides et aromates,"Laitues, roquette, moutarde, coriandre, basilic",20,1.10
+T2,Tour 2,7,4,28,Oui,Feuilles productives et grimpantes legeres,"Kale, bette a carde, pak-choi, epinard, pois, haricots",20,1.65
+T3,Tour 3,7,4,28,Oui,Fruits et cultures a support,"Tomates, concombres, pois, haricots, piments",20,2.15
