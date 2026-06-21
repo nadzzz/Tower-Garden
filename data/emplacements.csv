@@ -27,59 +27,59 @@ T1-N7-P1,T1,7,1,Basilic,P0001,en_germination,Classique; Vague 1; en mini-serre (
 T1-N7-P2,T1,7,2,Basilic,P0002,en_germination,Classique; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
 T1-N7-P3,T1,7,3,Basilic,,planifie,Classique; Vague 2; semis prevu 2026-06-15; transfert prevu 2026-07-06
 T1-N7-P4,T1,7,4,Basilic,,planifie,Classique; Vague 3; semis prevu 2026-06-22; transfert prevu 2026-07-13
-T2-N1-P1,T2,1,1,,,reserve,Ajouter pois/kale/pak-choi selon besoin
-T2-N1-P2,T2,1,2,,,reserve,Ajouter pois/kale/pak-choi selon besoin
-T2-N1-P3,T2,1,3,,,reserve,Ajouter pois/kale/pak-choi selon besoin
-T2-N1-P4,T2,1,4,,,reserve,Ajouter pois/kale/pak-choi selon besoin
-T2-N2-P1,T2,2,1,,,reserve,Ajouter pois/kale/pak-choi selon besoin
-T2-N2-P2,T2,2,2,,,reserve,Ajouter pois/kale/pak-choi selon besoin
-T2-N2-P3,T2,2,3,,,reserve,Ajouter pois/kale/pak-choi selon besoin
-T2-N2-P4,T2,2,4,,,reserve,Ajouter pois/kale/pak-choi selon besoin
+T2-N1-P1,T2,1,1,Pois mange-tout,P0014,en_germination,Cascadia; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-06-29
+T2-N1-P2,T2,1,2,Pois mange-tout,P0015,en_germination,Cascadia; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-06-29
+T2-N1-P3,T2,1,3,Pois mange-tout,P0016,en_germination,Cascadia; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-06-29
+T2-N1-P4,T2,1,4,Pois mange-tout,P0017,en_germination,Cascadia; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-06-29
+T2-N2-P1,T2,2,1,Pois mange-tout,P0018,en_germination,Oregon Sugar Pod; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-06-29
+T2-N2-P2,T2,2,2,Pois mange-tout,P0019,en_germination,Oregon Sugar Pod; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-06-29
+T2-N2-P3,T2,2,3,Pois mange-tout,P0020,en_germination,Oregon Sugar Pod; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-06-29
+T2-N2-P4,T2,2,4,Pois mange-tout,P0021,en_germination,Oregon Sugar Pod; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-06-29
 T2-N3-P1,T2,3,1,Pak-choi,P0028,en_germination,Shanghai; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-26
 T2-N3-P2,T2,3,2,Pak-choi,P0029,en_germination,Shanghai; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-26
 T2-N3-P3,T2,3,3,Pak-choi,,planifie,Shanghai; Vague 2; semis prevu 2026-06-15; transfert prevu 2026-07-03
-T2-N3-P4,T2,3,4,,,reserve,Ajouter pois/kale/pak-choi selon besoin
-T2-N4-P1,T2,4,1,Bette a carde,,planifie,Rainbow Chard; Vague 2; semis prevu 2026-06-15; transfert prevu 2026-07-06
-T2-N4-P2,T2,4,2,Oignon a botteler,P0025,en_germination,Parade; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-06
-T2-N4-P3,T2,4,3,Oignon a botteler,P0026,en_germination,Parade; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-06
-T2-N4-P4,T2,4,4,Ciboulette,P0027,en_germination,De jardin; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-13
+T2-N3-P4,T2,3,4,Ciboulette,P0027,en_germination,De jardin; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-13
+T2-N4-P1,T2,4,1,Bette a carde,P0024,en_germination,Rainbow Chard; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
+T2-N4-P2,T2,4,2,Bette a carde,,planifie,Rainbow Chard; Vague 2; semis prevu 2026-06-15; transfert prevu 2026-07-06
+T2-N4-P3,T2,4,3,Oignon a botteler,P0025,en_germination,Parade; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-06
+T2-N4-P4,T2,4,4,Oignon a botteler,P0026,en_germination,Parade; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-06
 T2-N5-P1,T2,5,1,Kale / chou frise,P0022,en_germination,Lacinato; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
 T2-N5-P2,T2,5,2,Kale / chou frise,,planifie,Lacinato; Vague 2; semis prevu 2026-06-15; transfert prevu 2026-07-06
 T2-N5-P3,T2,5,3,Kale,P0023,en_germination,variete inconnue; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
-T2-N5-P4,T2,5,4,Bette a carde,P0024,en_germination,Rainbow Chard; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
-T2-N6-P1,T2,6,1,Pois mange-tout,P0018,en_germination,Oregon Sugar Pod; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
-T2-N6-P2,T2,6,2,Pois mange-tout,P0019,en_germination,Oregon Sugar Pod; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
-T2-N6-P3,T2,6,3,Pois mange-tout,P0020,en_germination,Oregon Sugar Pod; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
-T2-N6-P4,T2,6,4,Pois mange-tout,P0021,en_germination,Oregon Sugar Pod; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
-T2-N7-P1,T2,7,1,Pois mange-tout,P0014,en_germination,Cascadia; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
-T2-N7-P2,T2,7,2,Pois mange-tout,P0015,en_germination,Cascadia; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
-T2-N7-P3,T2,7,3,Pois mange-tout,P0016,en_germination,Cascadia; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
-T2-N7-P4,T2,7,4,Pois mange-tout,P0017,en_germination,Cascadia; Vague 1; en mini-serre (GERM); transfert prevu 2026-06-29
-T3-N1-P1,T3,1,1,,,reserve,Garder libre pour lumiere et air
-T3-N1-P2,T3,1,2,,,reserve,Garder libre pour lumiere et air
-T3-N1-P3,T3,1,3,,,reserve,Garder libre pour lumiere et air
-T3-N1-P4,T3,1,4,,,reserve,Garder libre pour lumiere et air
-T3-N2-P1,T3,2,1,,,reserve,Garder libre pour lumiere et air
-T3-N2-P2,T3,2,2,,,reserve,Garder libre pour lumiere et air
-T3-N2-P3,T3,2,3,,,reserve,Garder libre pour lumiere et air
-T3-N2-P4,T3,2,4,,,reserve,Garder libre pour lumiere et air
-T3-N3-P1,T3,3,1,,,reserve,Garder libre pour lumiere et air
-T3-N3-P2,T3,3,2,,,reserve,Garder libre pour lumiere et air
-T3-N3-P3,T3,3,3,,,reserve,Garder libre pour lumiere et air
-T3-N3-P4,T3,3,4,,,reserve,Garder libre pour lumiere et air
-T3-N4-P1,T3,4,1,,,reserve,Garder libre pour lumiere et air
-T3-N4-P2,T3,4,2,,,reserve,Garder libre pour lumiere et air
-T3-N4-P3,T3,4,3,,,reserve,Garder libre pour lumiere et air
-T3-N4-P4,T3,4,4,,,reserve,Garder libre pour lumiere et air
-T3-N5-P1,T3,5,1,Piment cayenne,P0038,en_germination,Ring of Fire; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-20
-T3-N5-P2,T3,5,2,,,reserve,Garder libre pour lumiere et air
-T3-N5-P3,T3,5,3,,,reserve,Garder libre pour lumiere et air
-T3-N5-P4,T3,5,4,,,reserve,Garder libre pour lumiere et air
-T3-N6-P1,T3,6,1,Piment habanero,P0034,en_germination,Orange; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-27
-T3-N6-P2,T3,6,2,Piment jalapeno,P0035,en_germination,TAM; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-20
-T3-N6-P3,T3,6,3,Piment jalapeno,P0036,en_germination,TAM; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-20
-T3-N6-P4,T3,6,4,Piment cayenne,P0037,en_germination,Ring of Fire; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-20
-T3-N7-P1,T3,7,1,Tomate cerise,P0030,en_germination,Sunrise Bumble Bee; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-20
-T3-N7-P2,T3,7,2,Concombre,P0031,en_germination,Marketmore; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-06
-T3-N7-P3,T3,7,3,Tomate cerise,P0032,en_germination,Sunrise Bumble Bee; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-20
-T3-N7-P4,T3,7,4,Concombre,P0033,en_germination,Marketmore; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-06
+T2-N5-P4,T2,5,4,,,reserve,Ajouter kale/pak-choi selon besoin
+T2-N6-P1,T2,6,1,,,reserve,Succession pois/kale; hors portee support
+T2-N6-P2,T2,6,2,,,reserve,Succession pois/kale; hors portee support
+T2-N6-P3,T2,6,3,,,reserve,Succession pois/kale; hors portee support
+T2-N6-P4,T2,6,4,,,reserve,Succession pois/kale; hors portee support
+T2-N7-P1,T2,7,1,,,reserve,Succession pois/kale; hors portee support
+T2-N7-P2,T2,7,2,,,reserve,Succession pois/kale; hors portee support
+T2-N7-P3,T2,7,3,,,reserve,Succession pois/kale; hors portee support
+T2-N7-P4,T2,7,4,,,reserve,Succession pois/kale; hors portee support
+T3-N1-P1,T3,1,1,Tomate cerise,P0030,en_germination,Sunrise Bumble Bee; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-07-20
+T3-N1-P2,T3,1,2,Concombre,P0031,en_germination,Marketmore; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-07-06
+T3-N1-P3,T3,1,3,Tomate cerise,P0032,en_germination,Sunrise Bumble Bee; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-07-20
+T3-N1-P4,T3,1,4,Concombre,P0033,en_germination,Marketmore; Vague 1; depart bas du support (N1-N5); accessible enfants; transfert prevu 2026-07-06
+T3-N2-P1,T3,2,1,,,reserve,Garder libre pour lumiere et circulation
+T3-N2-P2,T3,2,2,,,reserve,Garder libre pour lumiere et circulation
+T3-N2-P3,T3,2,3,,,reserve,Garder libre pour lumiere et circulation
+T3-N2-P4,T3,2,4,,,reserve,Garder libre pour lumiere et circulation
+T3-N3-P1,T3,3,1,Piment cayenne,P0038,en_germination,Ring of Fire; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-20
+T3-N3-P2,T3,3,2,,,reserve,Garder libre pour lumiere et circulation
+T3-N3-P3,T3,3,3,,,reserve,Garder libre pour lumiere et circulation
+T3-N3-P4,T3,3,4,,,reserve,Garder libre pour lumiere et circulation
+T3-N4-P1,T3,4,1,Piment habanero,P0034,en_germination,Orange; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-27
+T3-N4-P2,T3,4,2,Piment jalapeno,P0035,en_germination,TAM; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-20
+T3-N4-P3,T3,4,3,Piment jalapeno,P0036,en_germination,TAM; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-20
+T3-N4-P4,T3,4,4,Piment cayenne,P0037,en_germination,Ring of Fire; Vague 1; en mini-serre (GERM); transfert prevu 2026-07-20
+T3-N5-P1,T3,5,1,,,reserve,Garder libre - arrivee du support grimpants
+T3-N5-P2,T3,5,2,,,reserve,Garder libre - arrivee du support grimpants
+T3-N5-P3,T3,5,3,,,reserve,Garder libre - arrivee du support grimpants
+T3-N5-P4,T3,5,4,,,reserve,Garder libre - arrivee du support grimpants
+T3-N6-P1,T3,6,1,,,reserve,Garder libre pour lumiere et air
+T3-N6-P2,T3,6,2,,,reserve,Garder libre pour lumiere et air
+T3-N6-P3,T3,6,3,,,reserve,Garder libre pour lumiere et air
+T3-N6-P4,T3,6,4,,,reserve,Garder libre pour lumiere et air
+T3-N7-P1,T3,7,1,,,reserve,Garder libre pour lumiere et air
+T3-N7-P2,T3,7,2,,,reserve,Garder libre pour lumiere et air
+T3-N7-P3,T3,7,3,,,reserve,Garder libre pour lumiere et air
+T3-N7-P4,T3,7,4,,,reserve,Garder libre pour lumiere et air
